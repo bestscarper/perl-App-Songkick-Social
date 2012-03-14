@@ -1,0 +1,1419 @@
+<resultsPage totalEntries="50" perPage="50" page="1" status="ok">
+  <results>
+    <calendarEntry createdAt="2011-11-14T15:13:41+0000">
+      <event popularity="0.002913" uri="http://www.songkick.com/concerts/10974463-beth-jeans-houghton-and-the-hooves-of-destiny-at-hoxton-square-bar-and-kitchen?utm_source=1196&amp;utm_medium=partner" displayName="Beth Jeans Houghton &amp; The Hooves of Destiny with Beth Jeans Houghton and Goodnight Lenin at Hoxton Square Bar &amp; Kitchen (March 1, 2012)" id="10974463" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.081657" lat="51.527476"/>
+        <start time="" date="2012-03-01" datetime=""/>
+        <performance displayName="Beth Jeans Houghton &amp; The Hooves of Destiny" billingIndex="1" id="21490303" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2924066-beth-jeans-houghton-and-the-hooves-of-destiny?utm_source=1196&amp;utm_medium=partner" displayName="Beth Jeans Houghton &amp; The Hooves of Destiny" id="2924066"/>
+        </performance>
+        <performance displayName="Beth Jeans Houghton" billingIndex="2" id="21271818" billing="support">
+          <artist uri="http://www.songkick.com/artists/584089-beth-jeans-houghton?utm_source=1196&amp;utm_medium=partner" displayName="Beth Jeans Houghton" id="584089">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:ce172f8b-4904-45ad-9a03-a61eacbae676.xml" mbid="ce172f8b-4904-45ad-9a03-a61eacbae676"/>
+          </artist>
+        </performance>
+        <performance displayName="Goodnight Lenin" billingIndex="3" id="21490308" billing="support">
+          <artist uri="http://www.songkick.com/artists/2910371-goodnight-lenin?utm_source=1196&amp;utm_medium=partner" displayName="Goodnight Lenin" id="2910371"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/8280-hoxton-square-bar-and-kitchen?utm_source=1196&amp;utm_medium=partner" displayName="Hoxton Square Bar &amp; Kitchen" id="8280" lng="-0.081657" lat="51.527476">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/584089-beth-jeans-houghton?utm_source=1196&amp;utm_medium=partner" displayName="Beth Jeans Houghton" id="584089" onTourUntil="2012-07-20">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:ce172f8b-4904-45ad-9a03-a61eacbae676.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:ce172f8b-4904-45ad-9a03-a61eacbae676/calendar.xml" mbid="ce172f8b-4904-45ad-9a03-a61eacbae676" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:ce172f8b-4904-45ad-9a03-a61eacbae676/setlists.xml"/>
+        </trackedArtist>
+        <trackedArtist uri="http://www.songkick.com/artists/2924066-beth-jeans-houghton-and-the-hooves-of-destiny?utm_source=1196&amp;utm_medium=partner" displayName="Beth Jeans Houghton &amp; The Hooves of Destiny" id="2924066" onTourUntil="2012-07-19"/>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-10T16:03:39+0000">
+      <event uri="http://www.songkick.com/concerts/11816128-kate-millerheidke-at-monto-water-rats?utm_source=1196&amp;utm_medium=partner" popularity="0.013784" displayName="Kate Miller-Heidke at Monto Water Rats (March 6, 2012)" id="11816128" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.119524" lat="51.528958"/>
+        <start time="19:00:00" date="2012-03-06" datetime="2012-03-06T19:00:00+0000"/>
+        <performance displayName="Kate Miller-Heidke" billingIndex="1" id="22913283" billing="headline">
+          <artist uri="http://www.songkick.com/artists/22446-kate-millerheidke?utm_source=1196&amp;utm_medium=partner" displayName="Kate Miller-Heidke" id="22446">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f7861eb7-a14c-41ec-813d-15a28a220a06.xml" mbid="f7861eb7-a14c-41ec-813d-15a28a220a06"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/3262-monto-water-rats?utm_source=1196&amp;utm_medium=partner" displayName="Monto Water Rats" id="3262" lng="-0.119524" lat="51.528958">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/22446-kate-millerheidke?utm_source=1196&amp;utm_medium=partner" displayName="Kate Miller-Heidke" id="22446" onTourUntil="2012-04-13">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f7861eb7-a14c-41ec-813d-15a28a220a06.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:f7861eb7-a14c-41ec-813d-15a28a220a06/calendar.xml" mbid="f7861eb7-a14c-41ec-813d-15a28a220a06" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:f7861eb7-a14c-41ec-813d-15a28a220a06/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-18T20:17:55+0000">
+      <event popularity="3.0e-06" uri="http://www.songkick.com/concerts/11200758-hank-wangford-and-brad-breath-at-green-note?utm_source=1196&amp;utm_medium=partner" displayName="Hank Wangford &amp; Brad Breath at Green Note (March 9, 2012)" id="11200758" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1456995" lat="51.5374217"/>
+        <start time="" date="2012-03-09" datetime=""/>
+        <performance displayName="Hank Wangford &amp; Brad Breath" billingIndex="1" id="22378088" billing="headline">
+          <artist uri="http://www.songkick.com/artists/5069608-hank-wangford-and-brad-breath?utm_source=1196&amp;utm_medium=partner" displayName="Hank Wangford &amp; Brad Breath" id="5069608"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/3266-green-note?utm_source=1196&amp;utm_medium=partner" displayName="Green Note" id="3266" lng="-0.1456995" lat="51.5374217">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/5069608-hank-wangford-and-brad-breath?utm_source=1196&amp;utm_medium=partner" displayName="Hank Wangford &amp; Brad Breath" id="5069608" onTourUntil="2012-11-23"/>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-12-20T10:11:25+0000">
+      <event popularity="0.020198" uri="http://www.songkick.com/concerts/11316658-emmy-the-great-at-queen-elizabeth-hall-southbank-centre?utm_source=1196&amp;utm_medium=partner" displayName="Emmy the Great at Queen Elizabeth Hall, Southbank Centre (March 11, 2012)" id="11316658" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1173619" lat="51.503603"/>
+        <start time="" date="2012-03-11" datetime=""/>
+        <performance displayName="Emmy the Great" billingIndex="1" id="21929653" billing="headline">
+          <artist uri="http://www.songkick.com/artists/317283-emmy-the-great?utm_source=1196&amp;utm_medium=partner" displayName="Emmy the Great" id="317283">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:60bbceb2-0ddc-403b-970b-b4e9c3b2de5c.xml" mbid="60bbceb2-0ddc-403b-970b-b4e9c3b2de5c"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/213588-queen-elizabeth-hall-southbank-centre?utm_source=1196&amp;utm_medium=partner" displayName="Queen Elizabeth Hall, Southbank Centre" id="213588" lng="-0.1173619" lat="51.503603">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/317283-emmy-the-great?utm_source=1196&amp;utm_medium=partner" displayName="Emmy the Great" id="317283" onTourUntil="2012-05-02">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:60bbceb2-0ddc-403b-970b-b4e9c3b2de5c.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:60bbceb2-0ddc-403b-970b-b4e9c3b2de5c/calendar.xml" mbid="60bbceb2-0ddc-403b-970b-b4e9c3b2de5c" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:60bbceb2-0ddc-403b-970b-b4e9c3b2de5c/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-09-20T15:11:36+0000">
+      <event popularity="0.015514" uri="http://www.songkick.com/concerts/10426588-nanci-griffith-at-o2-shepherds-bush-empire?utm_source=1196&amp;utm_medium=partner" displayName="Nanci Griffith at O2 Shepherd's Bush Empire (March 14, 2012)" id="10426588" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.224138" lat="51.5037539"/>
+        <start time="19:00:00" date="2012-03-14" datetime="2012-03-14T19:00:00+0000"/>
+        <performance displayName="Nanci Griffith" billingIndex="1" id="20103338" billing="headline">
+          <artist uri="http://www.songkick.com/artists/268836-nanci-griffith?utm_source=1196&amp;utm_medium=partner" displayName="Nanci Griffith" id="268836">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:b9ffd0e7-7f95-46db-bc1c-8094d459f084.xml" mbid="b9ffd0e7-7f95-46db-bc1c-8094d459f084"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/38320-o2-shepherds-bush-empire?utm_source=1196&amp;utm_medium=partner" displayName="O2 Shepherd's Bush Empire" id="38320" lng="-0.224138" lat="51.5037539">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/268836-nanci-griffith?utm_source=1196&amp;utm_medium=partner" displayName="Nanci Griffith" id="268836" onTourUntil="2012-05-03">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:b9ffd0e7-7f95-46db-bc1c-8094d459f084.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:b9ffd0e7-7f95-46db-bc1c-8094d459f084/calendar.xml" mbid="b9ffd0e7-7f95-46db-bc1c-8094d459f084" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:b9ffd0e7-7f95-46db-bc1c-8094d459f084/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-09-24T00:12:06+0000">
+      <event popularity="0.04269" uri="http://www.songkick.com/concerts/10492413-joan-baez-at-royal-festival-hall-southbank-centre?utm_source=1196&amp;utm_medium=partner" displayName="Joan Baez at Royal Festival Hall, Southbank Centre (March 16, 2012)" id="10492413" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1173619" lat="51.503603"/>
+        <start time="19:00:00" date="2012-03-16" datetime="2012-03-16T19:00:00+0000"/>
+        <performance displayName="Joan Baez" billingIndex="1" id="20228063" billing="headline">
+          <artist uri="http://www.songkick.com/artists/222376-joan-baez?utm_source=1196&amp;utm_medium=partner" displayName="Joan Baez" id="222376">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:92d37892-6186-4459-9cc1-f0dde57652d0.xml" mbid="92d37892-6186-4459-9cc1-f0dde57652d0"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/17582-royal-festival-hall-southbank-centre?utm_source=1196&amp;utm_medium=partner" displayName="Royal Festival Hall, Southbank Centre" id="17582" lng="-0.1173619" lat="51.503603">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/222376-joan-baez?utm_source=1196&amp;utm_medium=partner" displayName="Joan Baez" id="222376" onTourUntil="2012-06-29">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:92d37892-6186-4459-9cc1-f0dde57652d0.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:92d37892-6186-4459-9cc1-f0dde57652d0/calendar.xml" mbid="92d37892-6186-4459-9cc1-f0dde57652d0" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:92d37892-6186-4459-9cc1-f0dde57652d0/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-05T22:58:56+0000">
+      <event popularity="0.001426" uri="http://www.songkick.com/concerts/10906408-gretchen-peters-at-bush-hall?utm_source=1196&amp;utm_medium=partner" displayName="Gretchen Peters with Lisbee Stainton at Bush Hall (March 20, 2012)" id="10906408" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.2314873" lat="51.5062847"/>
+        <start time="20:00:00" date="2012-03-20" datetime="2012-03-20T20:00:00+0000"/>
+        <performance displayName="Gretchen Peters" billingIndex="1" id="21121823" billing="headline">
+          <artist uri="http://www.songkick.com/artists/377070-gretchen-peters?utm_source=1196&amp;utm_medium=partner" displayName="Gretchen Peters" id="377070">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:ca311a64-0a30-4fdb-ad0c-02444b8b0b8b.xml" mbid="ca311a64-0a30-4fdb-ad0c-02444b8b0b8b"/>
+          </artist>
+        </performance>
+        <performance displayName="Lisbee Stainton" billingIndex="2" id="21121828" billing="support">
+          <artist uri="http://www.songkick.com/artists/1298597-lisbee-stainton?utm_source=1196&amp;utm_medium=partner" displayName="Lisbee Stainton" id="1298597">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f63c9065-75e6-4e24-b67e-3c72b20b7452.xml" mbid="f63c9065-75e6-4e24-b67e-3c72b20b7452"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/17541-bush-hall?utm_source=1196&amp;utm_medium=partner" displayName="Bush Hall" id="17541" lng="-0.2314873" lat="51.5062847">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/377070-gretchen-peters?utm_source=1196&amp;utm_medium=partner" displayName="Gretchen Peters" id="377070" onTourUntil="2012-06-22">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:ca311a64-0a30-4fdb-ad0c-02444b8b0b8b.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:ca311a64-0a30-4fdb-ad0c-02444b8b0b8b/calendar.xml" mbid="ca311a64-0a30-4fdb-ad0c-02444b8b0b8b" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:ca311a64-0a30-4fdb-ad0c-02444b8b0b8b/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-15T09:49:29+0000">
+      <event uri="http://www.songkick.com/concerts/10982778-summer-camp-at-scala?utm_source=1196&amp;utm_medium=partner" popularity="0.021409" displayName="Summer Camp at Scala (March 21, 2012)" id="10982778" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1207038" lat="51.5305763"/>
+        <start time="" date="2012-03-21" datetime=""/>
+        <performance displayName="Summer Camp" billingIndex="1" id="21287793" billing="headline">
+          <artist uri="http://www.songkick.com/artists/376615-summer-camp?utm_source=1196&amp;utm_medium=partner" displayName="Summer Camp" id="376615">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:d68df59d-3150-4e2a-b6d3-c6c3be2ff590.xml" mbid="d68df59d-3150-4e2a-b6d3-c6c3be2ff590"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:3f446338-cb5f-4c4c-9ea4-1b12794cf48f.xml" mbid="3f446338-cb5f-4c4c-9ea4-1b12794cf48f"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/3428-scala?utm_source=1196&amp;utm_medium=partner" displayName="Scala" id="3428" lng="-0.1207038" lat="51.5305763">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/376615-summer-camp?utm_source=1196&amp;utm_medium=partner" displayName="Summer Camp" id="376615" onTourUntil="2012-08-03">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:d68df59d-3150-4e2a-b6d3-c6c3be2ff590.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:d68df59d-3150-4e2a-b6d3-c6c3be2ff590/calendar.xml" mbid="d68df59d-3150-4e2a-b6d3-c6c3be2ff590" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:d68df59d-3150-4e2a-b6d3-c6c3be2ff590/setlists.xml"/>
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:3f446338-cb5f-4c4c-9ea4-1b12794cf48f.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:3f446338-cb5f-4c4c-9ea4-1b12794cf48f/calendar.xml" mbid="3f446338-cb5f-4c4c-9ea4-1b12794cf48f" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:3f446338-cb5f-4c4c-9ea4-1b12794cf48f/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-12-31T17:59:27+0000">
+      <event uri="http://www.songkick.com/concerts/11385633-arch-garrison-at-union-chapel?utm_source=1196&amp;utm_medium=partner" popularity="0.000181" displayName="Arch Garrison, Directorsound, and Citizen Helene at Union Chapel (March 24, 2012)" id="11385633" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1028893" lat="51.5443277"/>
+        <start time="" date="2012-03-24" datetime=""/>
+        <performance displayName="Arch Garrison" billingIndex="1" id="22066258" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2576266-arch-garrison?utm_source=1196&amp;utm_medium=partner" displayName="Arch Garrison" id="2576266"/>
+        </performance>
+        <performance displayName="Directorsound" billingIndex="2" id="22066263" billing="headline">
+          <artist uri="http://www.songkick.com/artists/145733-directorsound?utm_source=1196&amp;utm_medium=partner" displayName="Directorsound" id="145733">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9899878b-60b5-43d4-9c2c-e04b4c7322ed.xml" mbid="9899878b-60b5-43d4-9c2c-e04b4c7322ed"/>
+          </artist>
+        </performance>
+        <performance displayName="Citizen Helene" billingIndex="3" id="22066268" billing="headline">
+          <artist uri="http://www.songkick.com/artists/1020844-citizen-helene?utm_source=1196&amp;utm_medium=partner" displayName="Citizen Helene" id="1020844"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1816-union-chapel?utm_source=1196&amp;utm_medium=partner" displayName="Union Chapel" id="1816" lng="-0.1028893" lat="51.5443277">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/1020844-citizen-helene?utm_source=1196&amp;utm_medium=partner" displayName="Citizen Helene" id="1020844" onTourUntil="2012-03-24"/>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-08T10:47:07+0000">
+      <event uri="http://www.songkick.com/concerts/10912418-feist-at-royal-albert-hall?utm_source=1196&amp;utm_medium=partner" popularity="0.288788" displayName="Feist with M. Ward at Royal Albert Hall (March 25, 2012)" id="10912418" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.128" lat="51.5078"/>
+        <start time="" date="2012-03-25" datetime=""/>
+        <performance displayName="Feist" billingIndex="1" id="21136668" billing="headline">
+          <artist uri="http://www.songkick.com/artists/501792-feist?utm_source=1196&amp;utm_medium=partner" displayName="Feist" id="501792">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f1b525b4-ddd0-4d39-85b2-d8fa26a7f279.xml" mbid="f1b525b4-ddd0-4d39-85b2-d8fa26a7f279"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f463a056-ae06-445b-bab2-449b11482bf2.xml" mbid="f463a056-ae06-445b-bab2-449b11482bf2"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:a670e05a-cea8-4b37-bce9-d82daf1a0fa4.xml" mbid="a670e05a-cea8-4b37-bce9-d82daf1a0fa4"/>
+          </artist>
+        </performance>
+        <performance displayName="M. Ward" billingIndex="2" id="21136948" billing="support">
+          <artist uri="http://www.songkick.com/artists/503681-m-ward?utm_source=1196&amp;utm_medium=partner" displayName="M. Ward" id="503681">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:655b3e5b-09e4-45dd-941c-6fa3fc12521b.xml" mbid="655b3e5b-09e4-45dd-941c-6fa3fc12521b"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/17538-royal-albert-hall?utm_source=1196&amp;utm_medium=partner" displayName="Royal Albert Hall" id="17538" lng="" lat="">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-08T10:54:50+0000">
+      <event popularity="0.290038" uri="http://www.songkick.com/concerts/10914403-feist-at-manchester-apollo?utm_source=1196&amp;utm_medium=partner" displayName="Feist with M. Ward at Manchester Apollo (March 26, 2012)" id="10914403" type="Concert" status="ok">
+        <location city="Manchester, UK" lng="-2.2054561" lat="53.4601794"/>
+        <start time="19:00:00" date="2012-03-26" datetime="2012-03-26T19:00:00+0000"/>
+        <performance displayName="Feist" billingIndex="1" id="21159523" billing="headline">
+          <artist uri="http://www.songkick.com/artists/501792-feist?utm_source=1196&amp;utm_medium=partner" displayName="Feist" id="501792">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f1b525b4-ddd0-4d39-85b2-d8fa26a7f279.xml" mbid="f1b525b4-ddd0-4d39-85b2-d8fa26a7f279"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f463a056-ae06-445b-bab2-449b11482bf2.xml" mbid="f463a056-ae06-445b-bab2-449b11482bf2"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:a670e05a-cea8-4b37-bce9-d82daf1a0fa4.xml" mbid="a670e05a-cea8-4b37-bce9-d82daf1a0fa4"/>
+          </artist>
+        </performance>
+        <performance displayName="M. Ward" billingIndex="2" id="21159528" billing="support">
+          <artist uri="http://www.songkick.com/artists/503681-m-ward?utm_source=1196&amp;utm_medium=partner" displayName="M. Ward" id="503681">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:655b3e5b-09e4-45dd-941c-6fa3fc12521b.xml" mbid="655b3e5b-09e4-45dd-941c-6fa3fc12521b"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1575-manchester-apollo?utm_source=1196&amp;utm_medium=partner" displayName="Manchester Apollo" id="1575" lng="-2.2054561" lat="53.4601794">
+          <metroArea uri="http://www.songkick.com/metro_areas/24475-uk-manchester?utm_source=1196&amp;utm_medium=partner" displayName="Manchester" id="24475">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-27T16:23:58+0000">
+      <event uri="http://www.songkick.com/concerts/11095023-rosanne-cash-at-union-chapel?utm_source=1196&amp;utm_medium=partner" popularity="0.01295" displayName="Rosanne Cash at Union Chapel (March 30, 2012)" id="11095023" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1028893" lat="51.5443277"/>
+        <start time="19:00:00" date="2012-03-30" datetime="2012-03-30T19:00:00+0000"/>
+        <performance displayName="Rosanne Cash" billingIndex="1" id="21513753" billing="headline">
+          <artist uri="http://www.songkick.com/artists/236339-rosanne-cash?utm_source=1196&amp;utm_medium=partner" displayName="Rosanne Cash" id="236339">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5ff6f6eb-31ad-4903-a3c3-4c9283fcde8b.xml" mbid="5ff6f6eb-31ad-4903-a3c3-4c9283fcde8b"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1816-union-chapel?utm_source=1196&amp;utm_medium=partner" displayName="Union Chapel" id="1816" lng="-0.1028893" lat="51.5443277">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/236339-rosanne-cash?utm_source=1196&amp;utm_medium=partner" displayName="Rosanne Cash" id="236339" onTourUntil="2012-08-31">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5ff6f6eb-31ad-4903-a3c3-4c9283fcde8b.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:5ff6f6eb-31ad-4903-a3c3-4c9283fcde8b/calendar.xml" mbid="5ff6f6eb-31ad-4903-a3c3-4c9283fcde8b" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:5ff6f6eb-31ad-4903-a3c3-4c9283fcde8b/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-10-06T15:03:35+0000">
+      <event popularity="0.002644" uri="http://www.songkick.com/concerts/10615993-po-girl-at-borderline?utm_source=1196&amp;utm_medium=partner" displayName="Po' Girl and Po'girl at The Borderline (April 4, 2012)" id="10615993" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1299951" lat="51.5094619"/>
+        <start time="19:00:00" date="2012-04-04" datetime="2012-04-04T19:00:00+0000"/>
+        <performance displayName="Po' Girl" billingIndex="1" id="20497698" billing="headline">
+          <artist uri="http://www.songkick.com/artists/317418-po-girl?utm_source=1196&amp;utm_medium=partner" displayName="Po' Girl" id="317418">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:74c94b37-d05b-4d7e-910b-2afbffef342f.xml" mbid="74c94b37-d05b-4d7e-910b-2afbffef342f"/>
+          </artist>
+        </performance>
+        <performance displayName="Po'girl" billingIndex="2" id="20540753" billing="headline">
+          <artist uri="http://www.songkick.com/artists/4787563-pogirl?utm_source=1196&amp;utm_medium=partner" displayName="Po'girl" id="4787563"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/17530-borderline?utm_source=1196&amp;utm_medium=partner" displayName="The Borderline" id="17530" lng="-0.1299951" lat="51.5094619">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/317418-po-girl?utm_source=1196&amp;utm_medium=partner" displayName="Po' Girl" id="317418" onTourUntil="2012-05-02">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:74c94b37-d05b-4d7e-910b-2afbffef342f.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:74c94b37-d05b-4d7e-910b-2afbffef342f/calendar.xml" mbid="74c94b37-d05b-4d7e-910b-2afbffef342f" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:74c94b37-d05b-4d7e-910b-2afbffef342f/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-02T15:04:40+0000">
+      <event popularity="0.022766" uri="http://www.songkick.com/concerts/10778753-loreena-mckennitt-at-barbican-centre?utm_source=1196&amp;utm_medium=partner" displayName="Loreena McKennitt at Barbican Centre (April 5, 2012)" id="10778753" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.0916989" lat="51.5198644"/>
+        <start time="19:00:00" date="2012-04-05" datetime="2012-04-05T19:00:00+0000"/>
+        <performance displayName="Loreena McKennitt" billingIndex="1" id="20853813" billing="headline">
+          <artist uri="http://www.songkick.com/artists/156551-loreena-mckennitt?utm_source=1196&amp;utm_medium=partner" displayName="Loreena McKennitt" id="156551">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:c1e5344e-1bff-4727-9417-a4f55e41b5ff.xml" mbid="c1e5344e-1bff-4727-9417-a4f55e41b5ff"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/68152-barbican-centre?utm_source=1196&amp;utm_medium=partner" displayName="Barbican Centre" id="68152" lng="-0.0916989" lat="51.5198644">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-05T16:14:31+0000">
+      <event popularity="0.004104" uri="http://www.songkick.com/concerts/11428208-drugstore-at-lexington?utm_source=1196&amp;utm_medium=partner" displayName="Drugstore with Vadoinmessico at The Lexington (April 6, 2012)" id="11428208" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.11146" lat="51.5316926"/>
+        <start time="" date="2012-04-06" datetime=""/>
+        <performance displayName="Drugstore" billingIndex="1" id="22145568" billing="headline">
+          <artist uri="http://www.songkick.com/artists/481866-drugstore?utm_source=1196&amp;utm_medium=partner" displayName="Drugstore" id="481866">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:2cc0cb62-4556-4f19-98fc-d54dbca18317.xml" mbid="2cc0cb62-4556-4f19-98fc-d54dbca18317"/>
+          </artist>
+        </performance>
+        <performance displayName="Vadoinmessico" billingIndex="2" id="22360778" billing="support">
+          <artist uri="http://www.songkick.com/artists/2265223-vadoinmessico?utm_source=1196&amp;utm_medium=partner" displayName="Vadoinmessico" id="2265223">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:7f435f9d-bd36-4f86-8d76-f9d87fed6a4b.xml" mbid="7f435f9d-bd36-4f86-8d76-f9d87fed6a4b"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/34372-lexington?utm_source=1196&amp;utm_medium=partner" displayName="The Lexington" id="34372" lng="-0.11146" lat="51.5316926">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/481866-drugstore?utm_source=1196&amp;utm_medium=partner" displayName="Drugstore" id="481866" onTourUntil="2012-04-13">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:2cc0cb62-4556-4f19-98fc-d54dbca18317.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:2cc0cb62-4556-4f19-98fc-d54dbca18317/calendar.xml" mbid="2cc0cb62-4556-4f19-98fc-d54dbca18317" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:2cc0cb62-4556-4f19-98fc-d54dbca18317/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-10-31T15:06:48+0000">
+      <event popularity="0.245058" uri="http://www.songkick.com/concerts/10845863-sufjan-stevens-at-barbican-centre?utm_source=1196&amp;utm_medium=partner" displayName="Sufjan Stevens, Nico Muhly, and Bryce Dessner with New Trombone Collective and 1 more… at Barbican Centre (April 9, 2012)" id="10845863" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.0916989" lat="51.5198644"/>
+        <start time="" date="2012-04-09" datetime=""/>
+        <performance displayName="Sufjan Stevens" billingIndex="1" id="20998513" billing="headline">
+          <artist uri="http://www.songkick.com/artists/118509-sufjan-stevens?utm_source=1196&amp;utm_medium=partner" displayName="Sufjan Stevens" id="118509">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:01d3c51b-9b98-418a-8d8e-37f6fab59d8c.xml" mbid="01d3c51b-9b98-418a-8d8e-37f6fab59d8c"/>
+          </artist>
+        </performance>
+        <performance displayName="Nico Muhly" billingIndex="2" id="20998518" billing="headline">
+          <artist uri="http://www.songkick.com/artists/506778-nico-muhly?utm_source=1196&amp;utm_medium=partner" displayName="Nico Muhly" id="506778">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:cd9e43ec-12dc-4567-9c60-1e554164cf05.xml" mbid="cd9e43ec-12dc-4567-9c60-1e554164cf05"/>
+          </artist>
+        </performance>
+        <performance displayName="Bryce Dessner" billingIndex="3" id="20998523" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2750056-bryce-dessner?utm_source=1196&amp;utm_medium=partner" displayName="Bryce Dessner" id="2750056">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:20336142-85de-4e11-a1fd-a6c815b4e583.xml" mbid="20336142-85de-4e11-a1fd-a6c815b4e583"/>
+          </artist>
+        </performance>
+        <performance displayName="New Trombone Collective" billingIndex="4" id="20998528" billing="support">
+          <artist uri="http://www.songkick.com/artists/4859068-new-trombone-collective?utm_source=1196&amp;utm_medium=partner" displayName="New Trombone Collective" id="4859068"/>
+        </performance>
+        <performance displayName="Navarra String Quartet" billingIndex="5" id="20998533" billing="support">
+          <artist uri="http://www.songkick.com/artists/4859073-navarra-string-quartet?utm_source=1196&amp;utm_medium=partner" displayName="Navarra String Quartet" id="4859073"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/68152-barbican-centre?utm_source=1196&amp;utm_medium=partner" displayName="Barbican Centre" id="68152" lng="-0.0916989" lat="51.5198644">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/118509-sufjan-stevens?utm_source=1196&amp;utm_medium=partner" displayName="Sufjan Stevens" id="118509" onTourUntil="2012-04-09">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:01d3c51b-9b98-418a-8d8e-37f6fab59d8c.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:01d3c51b-9b98-418a-8d8e-37f6fab59d8c/calendar.xml" mbid="01d3c51b-9b98-418a-8d8e-37f6fab59d8c" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:01d3c51b-9b98-418a-8d8e-37f6fab59d8c/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-25T16:25:44+0000">
+      <event popularity="0.005526" uri="http://www.songkick.com/concerts/11641133-sea-of-bees-at-old-boot-factory?utm_source=1196&amp;utm_medium=partner" displayName="Sea of Bees at The Old Boot Factory (April 10, 2012)" id="11641133" type="Concert" status="ok">
+        <location city="Oxford, UK" lng="-1.2352068" lat="51.7451531"/>
+        <start time="" date="2012-04-10" datetime=""/>
+        <performance displayName="Sea of Bees" billingIndex="1" id="22556578" billing="headline">
+          <artist uri="http://www.songkick.com/artists/3274831-sea-of-bees?utm_source=1196&amp;utm_medium=partner" displayName="Sea of Bees" id="3274831"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1437668-old-boot-factory?utm_source=1196&amp;utm_medium=partner" displayName="The Old Boot Factory" id="1437668" lng="-1.2352068" lat="51.7451531">
+          <metroArea uri="http://www.songkick.com/metro_areas/24500-uk-oxford?utm_source=1196&amp;utm_medium=partner" displayName="Oxford" id="24500">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/3274831-sea-of-bees?utm_source=1196&amp;utm_medium=partner" displayName="Sea of Bees" id="3274831" onTourUntil="2012-05-02"/>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-12-07T16:35:54+0000">
+      <event uri="http://www.songkick.com/concerts/11197108-daughter-at-islington-assembly-hall?utm_source=1196&amp;utm_medium=partner" popularity="0.009922" displayName="Daughter at Islington Assembly Hall (April 12, 2012)" id="11197108" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1026428" lat="51.5416577"/>
+        <start time="20:00:00" date="2012-04-12" datetime="2012-04-12T20:00:00+0000"/>
+        <performance displayName="Daughter" billingIndex="1" id="21704618" billing="headline">
+          <artist uri="http://www.songkick.com/artists/201667-daughter?utm_source=1196&amp;utm_medium=partner" displayName="Daughter" id="201667">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9c64faef-bf6f-4fad-8425-0c5e96ce07c4.xml" mbid="9c64faef-bf6f-4fad-8425-0c5e96ce07c4"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:373241ba-2101-429c-a8fc-c3ac4a4245fe.xml" mbid="373241ba-2101-429c-a8fc-c3ac4a4245fe"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:a1ced3e5-476c-4046-bd74-d428f419989b.xml" mbid="a1ced3e5-476c-4046-bd74-d428f419989b"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1256546-islington-assembly-hall?utm_source=1196&amp;utm_medium=partner" displayName="Islington Assembly Hall" id="1256546" lng="-0.1026428" lat="51.5416577">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/201667-daughter?utm_source=1196&amp;utm_medium=partner" displayName="Daughter" id="201667" onTourUntil="2012-08-16">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9c64faef-bf6f-4fad-8425-0c5e96ce07c4.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:9c64faef-bf6f-4fad-8425-0c5e96ce07c4/calendar.xml" mbid="9c64faef-bf6f-4fad-8425-0c5e96ce07c4" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:9c64faef-bf6f-4fad-8425-0c5e96ce07c4/setlists.xml"/>
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:373241ba-2101-429c-a8fc-c3ac4a4245fe.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:373241ba-2101-429c-a8fc-c3ac4a4245fe/calendar.xml" mbid="373241ba-2101-429c-a8fc-c3ac4a4245fe" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:373241ba-2101-429c-a8fc-c3ac4a4245fe/setlists.xml"/>
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:a1ced3e5-476c-4046-bd74-d428f419989b.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:a1ced3e5-476c-4046-bd74-d428f419989b/calendar.xml" mbid="a1ced3e5-476c-4046-bd74-d428f419989b" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:a1ced3e5-476c-4046-bd74-d428f419989b/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-14T16:06:34+0000">
+      <event uri="http://www.songkick.com/concerts/11856663-daniel-johnston-at-union-chapel?utm_source=1196&amp;utm_medium=partner" popularity="0.041086" displayName="Daniel Johnston and The Texan Sea Power with British Sea Power at Union Chapel (April 15, 2012)" id="11856663" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1028893" lat="51.5443277"/>
+        <start time="19:30:00" date="2012-04-15" datetime="2012-04-15T19:30:00+0000"/>
+        <performance displayName="Daniel Johnston" billingIndex="1" id="22991128" billing="headline">
+          <artist uri="http://www.songkick.com/artists/308917-daniel-johnston?utm_source=1196&amp;utm_medium=partner" displayName="Daniel Johnston" id="308917">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76.xml" mbid="8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76"/>
+          </artist>
+        </performance>
+        <performance displayName="The Texan Sea Power" billingIndex="2" id="22999363" billing="headline">
+          <artist uri="http://www.songkick.com/artists/5170268-texan-sea-power?utm_source=1196&amp;utm_medium=partner" displayName="The Texan Sea Power" id="5170268"/>
+        </performance>
+        <performance displayName="British Sea Power" billingIndex="3" id="22991133" billing="support">
+          <artist uri="http://www.songkick.com/artists/281941-british-sea-power?utm_source=1196&amp;utm_medium=partner" displayName="British Sea Power" id="281941">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:8830afec-83b3-4213-aad0-f6377f1d73ac.xml" mbid="8830afec-83b3-4213-aad0-f6377f1d73ac"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1816-union-chapel?utm_source=1196&amp;utm_medium=partner" displayName="Union Chapel" id="1816" lng="-0.1028893" lat="51.5443277">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/281941-british-sea-power?utm_source=1196&amp;utm_medium=partner" displayName="British Sea Power" id="281941" onTourUntil="2012-06-01">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:8830afec-83b3-4213-aad0-f6377f1d73ac.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:8830afec-83b3-4213-aad0-f6377f1d73ac/calendar.xml" mbid="8830afec-83b3-4213-aad0-f6377f1d73ac" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:8830afec-83b3-4213-aad0-f6377f1d73ac/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-09T22:47:34+0000">
+      <event popularity="0.003369" uri="http://www.songkick.com/concerts/11465353-miserable-rich-at-lexington?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich at The Lexington (April 17, 2012)" id="11465353" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.11146" lat="51.5316926"/>
+        <start time="" date="2012-04-17" datetime=""/>
+        <performance displayName="The Miserable Rich" billingIndex="1" id="22214753" billing="headline">
+          <artist uri="http://www.songkick.com/artists/1096492-miserable-rich?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich" id="1096492">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e.xml" mbid="86704ec2-bf92-4d8d-925f-d55db3653f0e"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/34372-lexington?utm_source=1196&amp;utm_medium=partner" displayName="The Lexington" id="34372" lng="-0.11146" lat="51.5316926">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="i_might_go">
+        <trackedArtist uri="http://www.songkick.com/artists/1096492-miserable-rich?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich" id="1096492" onTourUntil="2013-01-23">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e/calendar.xml" mbid="86704ec2-bf92-4d8d-925f-d55db3653f0e" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-25T00:49:30+0000">
+      <event popularity="0.005526" uri="http://www.songkick.com/concerts/11632623-sea-of-bees-at-hoxton-square-bar-and-kitchen?utm_source=1196&amp;utm_medium=partner" displayName="Sea of Bees at Hoxton Square Bar &amp; Kitchen (April 19, 2012)" id="11632623" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.081657" lat="51.527476"/>
+        <start time="20:00:00" date="2012-04-19" datetime="2012-04-19T20:00:00+0000"/>
+        <performance displayName="Sea of Bees" billingIndex="1" id="22540423" billing="headline">
+          <artist uri="http://www.songkick.com/artists/3274831-sea-of-bees?utm_source=1196&amp;utm_medium=partner" displayName="Sea of Bees" id="3274831"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/8280-hoxton-square-bar-and-kitchen?utm_source=1196&amp;utm_medium=partner" displayName="Hoxton Square Bar &amp; Kitchen" id="8280" lng="-0.081657" lat="51.527476">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/3274831-sea-of-bees?utm_source=1196&amp;utm_medium=partner" displayName="Sea of Bees" id="3274831" onTourUntil="2012-05-02"/>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-23T16:25:35+0000">
+      <event popularity="0.003349" uri="http://www.songkick.com/concerts/11613973-miserable-rich-at-jericho-tavern?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich and Coo Promotions at Jericho Tavern (April 21, 2012)" id="11613973" type="Concert" status="ok">
+        <location city="Oxford, UK" lng="-1.2664281" lat="51.7601515"/>
+        <start time="20:00:00" date="2012-04-21" datetime="2012-04-21T20:00:00+0000"/>
+        <performance displayName="The Miserable Rich" billingIndex="1" id="22504143" billing="headline">
+          <artist uri="http://www.songkick.com/artists/1096492-miserable-rich?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich" id="1096492">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e.xml" mbid="86704ec2-bf92-4d8d-925f-d55db3653f0e"/>
+          </artist>
+        </performance>
+        <performance displayName="Coo Promotions" billingIndex="2" id="22529598" billing="headline">
+          <artist uri="http://www.songkick.com/artists/4197026-coo-promotions?utm_source=1196&amp;utm_medium=partner" displayName="Coo Promotions" id="4197026"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/3291-jericho-tavern?utm_source=1196&amp;utm_medium=partner" displayName="Jericho Tavern" id="3291" lng="-1.2664281" lat="51.7601515">
+          <metroArea uri="http://www.songkick.com/metro_areas/24500-uk-oxford?utm_source=1196&amp;utm_medium=partner" displayName="Oxford" id="24500">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/1096492-miserable-rich?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich" id="1096492" onTourUntil="2013-01-23">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e/calendar.xml" mbid="86704ec2-bf92-4d8d-925f-d55db3653f0e" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-06T09:40:15+0000">
+      <event uri="http://www.songkick.com/concerts/11729528-gomez-at-koko?utm_source=1196&amp;utm_medium=partner" popularity="0.086912" displayName="Gomez at KOKO (April 23, 2012)" id="11729528" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.138338" lat="51.534617"/>
+        <start time="19:00:00" date="2012-04-23" datetime="2012-04-23T19:00:00+0000"/>
+        <performance displayName="Gomez" billingIndex="1" id="22734598" billing="headline">
+          <artist uri="http://www.songkick.com/artists/789436-gomez?utm_source=1196&amp;utm_medium=partner" displayName="Gomez" id="789436">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:304cdd9d-a04e-4eb2-865c-980a553a0efd.xml" mbid="304cdd9d-a04e-4eb2-865c-980a553a0efd"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/13725-koko?utm_source=1196&amp;utm_medium=partner" displayName="KOKO" id="13725" lng="-0.138338" lat="51.534617">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/789436-gomez?utm_source=1196&amp;utm_medium=partner" displayName="Gomez" id="789436" onTourUntil="2012-04-27">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:304cdd9d-a04e-4eb2-865c-980a553a0efd.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:304cdd9d-a04e-4eb2-865c-980a553a0efd/calendar.xml" mbid="304cdd9d-a04e-4eb2-865c-980a553a0efd" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:304cdd9d-a04e-4eb2-865c-980a553a0efd/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-24T15:11:08+0000">
+      <event popularity="0.0" uri="http://www.songkick.com/concerts/11975003-luke-haines-at-lexington?utm_source=1196&amp;utm_medium=partner" displayName="Luke Haines at The Lexington (April 24, 2012)" id="11975003" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.11146" lat="51.5316926"/>
+        <start time="" date="2012-04-24" datetime=""/>
+        <performance displayName="Luke Haines" billingIndex="1" id="23240723" billing="headline">
+          <artist uri="http://www.songkick.com/artists/35206-luke-haines?utm_source=1196&amp;utm_medium=partner" displayName="Luke Haines" id="35206">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:08bca401-88d5-4de7-b9c3-560a2e4c1abc.xml" mbid="08bca401-88d5-4de7-b9c3-560a2e4c1abc"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/34372-lexington?utm_source=1196&amp;utm_medium=partner" displayName="The Lexington" id="34372" lng="-0.11146" lat="51.5316926">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-24T23:22:51+0000">
+      <event popularity="0.002032" uri="http://www.songkick.com/concerts/11631358-greg-holden-at-st-pancras-old-church?utm_source=1196&amp;utm_medium=partner" displayName="Greg Holden with Eddplant at St Pancras Old Church (April 26, 2012)" id="11631358" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1288578" lat="51.5334585"/>
+        <start time="20:00:00" date="2012-04-26" datetime="2012-04-26T20:00:00+0000"/>
+        <performance displayName="Greg Holden" billingIndex="1" id="22537878" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2245182-greg-holden?utm_source=1196&amp;utm_medium=partner" displayName="Greg Holden" id="2245182"/>
+        </performance>
+        <performance displayName="Eddplant" billingIndex="2" id="23190103" billing="support">
+          <artist uri="http://www.songkick.com/artists/4059361-eddplant?utm_source=1196&amp;utm_medium=partner" displayName="Eddplant" id="4059361"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/563056-st-pancras-old-church?utm_source=1196&amp;utm_medium=partner" displayName="St Pancras Old Church" id="563056" lng="-0.1288578" lat="51.5334585">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/2245182-greg-holden?utm_source=1196&amp;utm_medium=partner" displayName="Greg Holden" id="2245182" onTourUntil="2012-05-17"/>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-30T16:45:53+0000">
+      <event popularity="0.001386" uri="http://www.songkick.com/concerts/11687583-che-sudaka-at-village-underground?utm_source=1196&amp;utm_medium=partner" displayName="Che Sudaka with Los Chinches, Cal Jader, and Sacha Dieu at Village Underground (April 27, 2012)" id="11687583" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.0780335" lat="51.5237877"/>
+        <start time="21:00:00" date="2012-04-27" datetime="2012-04-27T21:00:00+0000"/>
+        <performance displayName="Che Sudaka" billingIndex="1" id="22650993" billing="headline">
+          <artist uri="http://www.songkick.com/artists/447518-che-sudaka?utm_source=1196&amp;utm_medium=partner" displayName="Che Sudaka" id="447518">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:837ffb60-6423-4427-b570-bff5d0fe15b9.xml" mbid="837ffb60-6423-4427-b570-bff5d0fe15b9"/>
+          </artist>
+        </performance>
+        <performance displayName="Los Chinches" billingIndex="2" id="22650998" billing="support">
+          <artist uri="http://www.songkick.com/artists/2391024-los-chinches?utm_source=1196&amp;utm_medium=partner" displayName="Los Chinches" id="2391024">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:1f41a02d-fd2a-4e80-a5ae-80a07761a644.xml" mbid="1f41a02d-fd2a-4e80-a5ae-80a07761a644"/>
+          </artist>
+        </performance>
+        <performance displayName="Cal Jader" billingIndex="3" id="22705743" billing="support">
+          <artist uri="http://www.songkick.com/artists/2711366-cal-jader?utm_source=1196&amp;utm_medium=partner" displayName="Cal Jader" id="2711366"/>
+        </performance>
+        <performance displayName="Sacha Dieu" billingIndex="4" id="22705748" billing="support">
+          <artist uri="http://www.songkick.com/artists/5122613-sacha-dieu?utm_source=1196&amp;utm_medium=partner" displayName="Sacha Dieu" id="5122613"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/628031-village-underground?utm_source=1196&amp;utm_medium=partner" displayName="Village Underground" id="628031" lng="-0.0780335" lat="51.5237877">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/447518-che-sudaka?utm_source=1196&amp;utm_medium=partner" displayName="Che Sudaka" id="447518" onTourUntil="2012-04-27">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:837ffb60-6423-4427-b570-bff5d0fe15b9.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:837ffb60-6423-4427-b570-bff5d0fe15b9/calendar.xml" mbid="837ffb60-6423-4427-b570-bff5d0fe15b9" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:837ffb60-6423-4427-b570-bff5d0fe15b9/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-28T16:02:50+0000">
+      <event popularity="0.020309" uri="http://www.songkick.com/concerts/11098403-ane-brun-at-o2-shepherds-bush-empire?utm_source=1196&amp;utm_medium=partner" displayName="Ane Brun with Anne Brun at O2 Shepherd's Bush Empire (April 28, 2012)" id="11098403" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.224138" lat="51.5037539"/>
+        <start time="19:30:00" date="2012-04-28" datetime="2012-04-28T19:30:00+0000"/>
+        <performance displayName="Ane Brun" billingIndex="1" id="21521173" billing="headline">
+          <artist uri="http://www.songkick.com/artists/73101-ane-brun?utm_source=1196&amp;utm_medium=partner" displayName="Ane Brun" id="73101">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:d735497b-25f9-4503-8fb5-f50150730c18.xml" mbid="d735497b-25f9-4503-8fb5-f50150730c18"/>
+          </artist>
+        </performance>
+        <performance displayName="Anne Brun" billingIndex="2" id="21758608" billing="support">
+          <artist uri="http://www.songkick.com/artists/4298206-anne-brun?utm_source=1196&amp;utm_medium=partner" displayName="Anne Brun" id="4298206"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/38320-o2-shepherds-bush-empire?utm_source=1196&amp;utm_medium=partner" displayName="O2 Shepherd's Bush Empire" id="38320" lng="-0.224138" lat="51.5037539">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/73101-ane-brun?utm_source=1196&amp;utm_medium=partner" displayName="Ane Brun" id="73101" onTourUntil="2012-09-06">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:d735497b-25f9-4503-8fb5-f50150730c18.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:d735497b-25f9-4503-8fb5-f50150730c18/calendar.xml" mbid="d735497b-25f9-4503-8fb5-f50150730c18" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:d735497b-25f9-4503-8fb5-f50150730c18/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-24T20:16:16+0000">
+      <event uri="http://www.songkick.com/concerts/11628568-ute-lemper-at-union-chapel?utm_source=1196&amp;utm_medium=partner" popularity="0.002933" displayName="Ute Lemper at Union Chapel (May 2, 2012)" id="11628568" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1028893" lat="51.5443277"/>
+        <start time="" date="2012-05-02" datetime=""/>
+        <performance displayName="Ute Lemper" billingIndex="1" id="22533083" billing="headline">
+          <artist uri="http://www.songkick.com/artists/177539-ute-lemper?utm_source=1196&amp;utm_medium=partner" displayName="Ute Lemper" id="177539">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:65d509a1-7e8c-47c2-ae57-14fdd882b16a.xml" mbid="65d509a1-7e8c-47c2-ae57-14fdd882b16a"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1816-union-chapel?utm_source=1196&amp;utm_medium=partner" displayName="Union Chapel" id="1816" lng="-0.1028893" lat="51.5443277">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-30T15:00:28+0000">
+      <event popularity="0.138378" uri="http://www.songkick.com/concerts/11686768-garbage-at-troxy?utm_source=1196&amp;utm_medium=partner" displayName="Garbage at Troxy (May 9, 2012)" id="11686768" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.0440114" lat="51.5128661"/>
+        <start time="" date="2012-05-09" datetime=""/>
+        <performance displayName="Garbage" billingIndex="1" id="22649388" billing="headline">
+          <artist uri="http://www.songkick.com/artists/555961-garbage?utm_source=1196&amp;utm_medium=partner" displayName="Garbage" id="555961">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f9ef7a22-4262-4596-a2a8-1d19345b8e50.xml" mbid="f9ef7a22-4262-4596-a2a8-1d19345b8e50"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/7898-troxy?utm_source=1196&amp;utm_medium=partner" displayName="Troxy" id="7898" lng="-0.0440114" lat="51.5128661">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/555961-garbage?utm_source=1196&amp;utm_medium=partner" displayName="Garbage" id="555961" onTourUntil="2012-07-06">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f9ef7a22-4262-4596-a2a8-1d19345b8e50.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:f9ef7a22-4262-4596-a2a8-1d19345b8e50/calendar.xml" mbid="f9ef7a22-4262-4596-a2a8-1d19345b8e50" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:f9ef7a22-4262-4596-a2a8-1d19345b8e50/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-11T23:13:50+0000">
+      <event uri="http://www.songkick.com/concerts/11494898-emily-smith-at-cornerstone?utm_source=1196&amp;utm_medium=partner" popularity="0.000942" displayName="Emily Smith at The Cornerstone (May 13, 2012)" id="11494898" type="Concert" status="ok">
+        <location city="Oxford, UK" lng="-1.2399554" lat="51.6074307"/>
+        <start time="20:00:00" date="2012-05-13" datetime="2012-05-13T20:00:00+0000"/>
+        <performance displayName="Emily Smith" billingIndex="1" id="22273633" billing="headline">
+          <artist uri="http://www.songkick.com/artists/398109-emily-smith?utm_source=1196&amp;utm_medium=partner" displayName="Emily Smith" id="398109">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:cf67f358-9a02-4a59-ac6e-db8c713037ec.xml" mbid="cf67f358-9a02-4a59-ac6e-db8c713037ec"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/706066-cornerstone?utm_source=1196&amp;utm_medium=partner" displayName="The Cornerstone" id="706066" lng="-1.2399554" lat="51.6074307">
+          <metroArea uri="http://www.songkick.com/metro_areas/24500-uk-oxford?utm_source=1196&amp;utm_medium=partner" displayName="Oxford" id="24500">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="i_might_go">
+        <trackedArtist uri="http://www.songkick.com/artists/398109-emily-smith?utm_source=1196&amp;utm_medium=partner" displayName="Emily Smith" id="398109" onTourUntil="2013-02-16">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:cf67f358-9a02-4a59-ac6e-db8c713037ec.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:cf67f358-9a02-4a59-ac6e-db8c713037ec/calendar.xml" mbid="cf67f358-9a02-4a59-ac6e-db8c713037ec" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:cf67f358-9a02-4a59-ac6e-db8c713037ec/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-15T16:28:44+0000">
+      <event popularity="0.00325" uri="http://www.songkick.com/concerts/11868813-polly-paulusma-at-troubadour?utm_source=1196&amp;utm_medium=partner" displayName="Polly Paulusma at The Troubadour (May 15, 2012)" id="11868813" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1919702" lat="51.4886945"/>
+        <start time="" date="2012-05-15" datetime=""/>
+        <performance displayName="Polly Paulusma" billingIndex="1" id="23016373" billing="headline">
+          <artist uri="http://www.songkick.com/artists/485822-polly-paulusma?utm_source=1196&amp;utm_medium=partner" displayName="Polly Paulusma" id="485822">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:e8fab347-1db2-4332-aaaa-ba1f48bd2ded.xml" mbid="e8fab347-1db2-4332-aaaa-ba1f48bd2ded"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/3300-troubadour?utm_source=1196&amp;utm_medium=partner" displayName="The Troubadour" id="3300" lng="-0.1919702" lat="51.4886945">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/485822-polly-paulusma?utm_source=1196&amp;utm_medium=partner" displayName="Polly Paulusma" id="485822" onTourUntil="2012-08-31">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:e8fab347-1db2-4332-aaaa-ba1f48bd2ded.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:e8fab347-1db2-4332-aaaa-ba1f48bd2ded/calendar.xml" mbid="e8fab347-1db2-4332-aaaa-ba1f48bd2ded" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:e8fab347-1db2-4332-aaaa-ba1f48bd2ded/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-12-01T00:37:25+0000">
+      <event popularity="0.015805" uri="http://www.songkick.com/concerts/11128043-fairport-convention-at-borderline?utm_source=1196&amp;utm_medium=partner" displayName="Fairport Convention at The Borderline (May 16, 2012)" id="11128043" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1299951" lat="51.5094619"/>
+        <start time="19:30:00" date="2012-05-16" datetime="2012-05-16T19:30:00+0000"/>
+        <performance displayName="Fairport Convention" billingIndex="1" id="21577623" billing="headline">
+          <artist uri="http://www.songkick.com/artists/396525-fairport-convention?utm_source=1196&amp;utm_medium=partner" displayName="Fairport Convention" id="396525">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:cc60d937-e80b-4c66-8aa2-e89cb57c8b08.xml" mbid="cc60d937-e80b-4c66-8aa2-e89cb57c8b08"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/17530-borderline?utm_source=1196&amp;utm_medium=partner" displayName="The Borderline" id="17530" lng="-0.1299951" lat="51.5094619">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/396525-fairport-convention?utm_source=1196&amp;utm_medium=partner" displayName="Fairport Convention" id="396525" onTourUntil="2012-08-09">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:cc60d937-e80b-4c66-8aa2-e89cb57c8b08.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:cc60d937-e80b-4c66-8aa2-e89cb57c8b08/calendar.xml" mbid="cc60d937-e80b-4c66-8aa2-e89cb57c8b08" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:cc60d937-e80b-4c66-8aa2-e89cb57c8b08/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-25T01:53:33+0000">
+      <event popularity="0.000368" uri="http://www.songkick.com/concerts/11975583-slow-down-molasses-at-zigfrid-von-underbelly?utm_source=1196&amp;utm_medium=partner" displayName="Slow Down, Molasses at Zigfrid von Underbelly (May 17, 2012)" id="11975583" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.0818218" lat="51.5277797"/>
+        <start time="19:30:00" date="2012-05-17" datetime="2012-05-17T19:30:00+0000"/>
+        <performance displayName="Slow Down, Molasses" billingIndex="1" id="23241743" billing="headline">
+          <artist uri="http://www.songkick.com/artists/1113157-slow-down-molasses?utm_source=1196&amp;utm_medium=partner" displayName="Slow Down, Molasses" id="1113157"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/48097-zigfrid-von-underbelly?utm_source=1196&amp;utm_medium=partner" displayName="Zigfrid von Underbelly" id="48097" lng="-0.0818218" lat="51.5277797">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-05T19:26:28+0000">
+      <event popularity="0.007461" uri="http://www.songkick.com/concerts/11429303-thea-gilmore-at-barbican-centre?utm_source=1196&amp;utm_medium=partner" displayName="Thea Gilmore, Members of Bellowhead, Maddy Prior, Jerry Donahue, and 5 more… at Barbican Centre (May 23, 2012)" id="11429303" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.0916989" lat="51.5198644"/>
+        <start time="" date="2012-05-23" datetime=""/>
+        <performance displayName="Thea Gilmore" billingIndex="1" id="22147948" billing="headline">
+          <artist uri="http://www.songkick.com/artists/337744-thea-gilmore?utm_source=1196&amp;utm_medium=partner" displayName="Thea Gilmore" id="337744">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:4176a7cc-5b9d-46c9-b616-8f2b19f7f92f.xml" mbid="4176a7cc-5b9d-46c9-b616-8f2b19f7f92f"/>
+          </artist>
+        </performance>
+        <performance displayName="Members of Bellowhead" billingIndex="2" id="22426963" billing="headline">
+          <artist uri="http://www.songkick.com/artists/5080418-members-of-bellowhead?utm_source=1196&amp;utm_medium=partner" displayName="Members of Bellowhead" id="5080418"/>
+        </performance>
+        <performance displayName="Maddy Prior" billingIndex="3" id="22147958" billing="headline">
+          <artist uri="http://www.songkick.com/artists/116500-maddy-prior?utm_source=1196&amp;utm_medium=partner" displayName="Maddy Prior" id="116500">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:49bbd690-3520-4d6e-b0af-1fcdc12d8062.xml" mbid="49bbd690-3520-4d6e-b0af-1fcdc12d8062"/>
+          </artist>
+        </performance>
+        <performance displayName="Jerry Donahue" billingIndex="4" id="22147963" billing="headline">
+          <artist uri="http://www.songkick.com/artists/175897-jerry-donahue?utm_source=1196&amp;utm_medium=partner" displayName="Jerry Donahue" id="175897">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f4935252-8d4d-4af8-ae96-4b95df8c601e.xml" mbid="f4935252-8d4d-4af8-ae96-4b95df8c601e"/>
+          </artist>
+        </performance>
+        <performance displayName="Dave Swarbrick" billingIndex="5" id="22147968" billing="headline">
+          <artist uri="http://www.songkick.com/artists/160514-dave-swarbrick?utm_source=1196&amp;utm_medium=partner" displayName="Dave Swarbrick" id="160514">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:db2776d1-a0f7-43c0-b332-a717859673b5.xml" mbid="db2776d1-a0f7-43c0-b332-a717859673b5"/>
+          </artist>
+        </performance>
+        <performance displayName="Lavina Blackwell" billingIndex="6" id="22147973" billing="headline">
+          <artist uri="http://www.songkick.com/artists/5038373-lavina-blackwell?utm_source=1196&amp;utm_medium=partner" displayName="Lavina Blackwell" id="5038373"/>
+        </performance>
+        <performance displayName="Blair Dunlop" billingIndex="7" id="22147978" billing="headline">
+          <artist uri="http://www.songkick.com/artists/4018761-blair-dunlop?utm_source=1196&amp;utm_medium=partner" displayName="Blair Dunlop" id="4018761"/>
+        </performance>
+        <performance displayName="Sam Carter" billingIndex="8" id="22147983" billing="headline">
+          <artist uri="http://www.songkick.com/artists/585180-sam-carter?utm_source=1196&amp;utm_medium=partner" displayName="Sam Carter" id="585180">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:98d4cad8-4da6-4fe0-94af-3e1bec5b7759.xml" mbid="98d4cad8-4da6-4fe0-94af-3e1bec5b7759"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:6b24a6fa-c731-4806-bae8-017485fd1cd7.xml" mbid="6b24a6fa-c731-4806-bae8-017485fd1cd7"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:a3dedf5d-9606-4977-9b03-9584942f54c2.xml" mbid="a3dedf5d-9606-4977-9b03-9584942f54c2"/>
+          </artist>
+        </performance>
+        <performance displayName="P.P. Arnold" billingIndex="9" id="22147988" billing="headline">
+          <artist uri="http://www.songkick.com/artists/334427-pp-arnold?utm_source=1196&amp;utm_medium=partner" displayName="P.P. Arnold" id="334427">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:b8d00eb5-b12a-4e58-8d0a-0993752be2a3.xml" mbid="b8d00eb5-b12a-4e58-8d0a-0993752be2a3"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/68152-barbican-centre?utm_source=1196&amp;utm_medium=partner" displayName="Barbican Centre" id="68152" lng="-0.0916989" lat="51.5198644">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/337744-thea-gilmore?utm_source=1196&amp;utm_medium=partner" displayName="Thea Gilmore" id="337744" onTourUntil="2012-05-28">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:4176a7cc-5b9d-46c9-b616-8f2b19f7f92f.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:4176a7cc-5b9d-46c9-b616-8f2b19f7f92f/calendar.xml" mbid="4176a7cc-5b9d-46c9-b616-8f2b19f7f92f" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:4176a7cc-5b9d-46c9-b616-8f2b19f7f92f/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-17T09:31:34+0000">
+      <event popularity="0.0" uri="http://www.songkick.com/concerts/11892183-saint-etienne-at-assembly?utm_source=1196&amp;utm_medium=partner" displayName="Saint Etienne at The Assembly (May 26, 2012)" id="11892183" type="Concert" status="ok">
+        <location city="Leamington Spa, UK" lng="-1.5338949" lat="52.2857901"/>
+        <start time="" date="2012-05-26" datetime=""/>
+        <performance displayName="Saint Etienne" billingIndex="1" id="23066303" billing="headline">
+          <artist uri="http://www.songkick.com/artists/112621-saint-etienne?utm_source=1196&amp;utm_medium=partner" displayName="Saint Etienne" id="112621">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:3997d4a6-c2bd-4191-8406-eb07f0abb5d2.xml" mbid="3997d4a6-c2bd-4191-8406-eb07f0abb5d2"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/35380-assembly?utm_source=1196&amp;utm_medium=partner" displayName="The Assembly" id="35380" lng="-1.5338949" lat="52.2857901">
+          <metroArea uri="http://www.songkick.com/metro_areas/24530-uk-coventry?utm_source=1196&amp;utm_medium=partner" displayName="Coventry" id="24530">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-01T16:07:34+0000">
+      <event popularity="0.005504" uri="http://www.songkick.com/concerts/11714878-suzy-bogguss-at-bush-hall?utm_source=1196&amp;utm_medium=partner" displayName="Suzy Bogguss and Suzy Bugguss at Bush Hall (May 27, 2012)" id="11714878" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.2314873" lat="51.5062847"/>
+        <start time="19:30:00" date="2012-05-27" datetime="2012-05-27T19:30:00+0000"/>
+        <performance displayName="Suzy Bogguss" billingIndex="1" id="22703463" billing="headline">
+          <artist uri="http://www.songkick.com/artists/28372-suzy-bogguss?utm_source=1196&amp;utm_medium=partner" displayName="Suzy Bogguss" id="28372">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:37d4bb9c-422b-4032-abfc-479dfdc64bbd.xml" mbid="37d4bb9c-422b-4032-abfc-479dfdc64bbd"/>
+          </artist>
+        </performance>
+        <performance displayName="Suzy Bugguss" billingIndex="2" id="22713253" billing="headline">
+          <artist uri="http://www.songkick.com/artists/5123308-suzy-bugguss?utm_source=1196&amp;utm_medium=partner" displayName="Suzy Bugguss" id="5123308"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/17541-bush-hall?utm_source=1196&amp;utm_medium=partner" displayName="Bush Hall" id="17541" lng="-0.2314873" lat="51.5062847">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/28372-suzy-bogguss?utm_source=1196&amp;utm_medium=partner" displayName="Suzy Bogguss" id="28372" onTourUntil="2012-06-01">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:37d4bb9c-422b-4032-abfc-479dfdc64bbd.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:37d4bb9c-422b-4032-abfc-479dfdc64bbd/calendar.xml" mbid="37d4bb9c-422b-4032-abfc-479dfdc64bbd" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:37d4bb9c-422b-4032-abfc-479dfdc64bbd/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-17T09:08:41+0000">
+      <event popularity="0.0" uri="http://www.songkick.com/concerts/11892128-saint-etienne-at-london-palladium?utm_source=1196&amp;utm_medium=partner" displayName="Saint Etienne at London Palladium (May 28, 2012)" id="11892128" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.140655" lat="51.514568"/>
+        <start time="" date="2012-05-28" datetime=""/>
+        <performance displayName="Saint Etienne" billingIndex="1" id="23066153" billing="headline">
+          <artist uri="http://www.songkick.com/artists/112621-saint-etienne?utm_source=1196&amp;utm_medium=partner" displayName="Saint Etienne" id="112621">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:3997d4a6-c2bd-4191-8406-eb07f0abb5d2.xml" mbid="3997d4a6-c2bd-4191-8406-eb07f0abb5d2"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1765-london-palladium?utm_source=1196&amp;utm_medium=partner" displayName="London Palladium" id="1765" lng="-0.140655" lat="51.514568">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/112621-saint-etienne?utm_source=1196&amp;utm_medium=partner" displayName="Saint Etienne" id="112621" onTourUntil="2012-08-16">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:3997d4a6-c2bd-4191-8406-eb07f0abb5d2.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:3997d4a6-c2bd-4191-8406-eb07f0abb5d2/calendar.xml" mbid="3997d4a6-c2bd-4191-8406-eb07f0abb5d2" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:3997d4a6-c2bd-4191-8406-eb07f0abb5d2/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-23T16:25:47+0000">
+      <event popularity="0.005988" uri="http://www.songkick.com/concerts/11614043-anais-mitchell-at-lexington?utm_source=1196&amp;utm_medium=partner" displayName="Anaïs Mitchell with The Young Man Band and Anais Mitchell &amp; the Young Man Band at The Lexington (May 29, 2012)" id="11614043" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.11146" lat="51.5316926"/>
+        <start time="20:00:00" date="2012-05-29" datetime="2012-05-29T20:00:00+0000"/>
+        <performance displayName="Anaïs Mitchell" billingIndex="1" id="22504218" billing="headline">
+          <artist uri="http://www.songkick.com/artists/28382-anais-mitchell?utm_source=1196&amp;utm_medium=partner" displayName="Anaïs Mitchell" id="28382">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9f41d3cd-5fe4-4144-b658-b00c557f0441.xml" mbid="9f41d3cd-5fe4-4144-b658-b00c557f0441"/>
+          </artist>
+        </performance>
+        <performance displayName="The Young Man Band" billingIndex="2" id="22913988" billing="support">
+          <artist uri="http://www.songkick.com/artists/5150253-young-man-band?utm_source=1196&amp;utm_medium=partner" displayName="The Young Man Band" id="5150253"/>
+        </performance>
+        <performance displayName="Anais Mitchell &amp; the Young Man Band" billingIndex="3" id="22965113" billing="support">
+          <artist uri="http://www.songkick.com/artists/5161778-anais-mitchell-and-the-young-man-band?utm_source=1196&amp;utm_medium=partner" displayName="Anais Mitchell &amp; the Young Man Band" id="5161778"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/34372-lexington?utm_source=1196&amp;utm_medium=partner" displayName="The Lexington" id="34372" lng="-0.11146" lat="51.5316926">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/28382-anais-mitchell?utm_source=1196&amp;utm_medium=partner" displayName="Anaïs Mitchell" id="28382" onTourUntil="2012-06-10">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9f41d3cd-5fe4-4144-b658-b00c557f0441.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:9f41d3cd-5fe4-4144-b658-b00c557f0441/calendar.xml" mbid="9f41d3cd-5fe4-4144-b658-b00c557f0441" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:9f41d3cd-5fe4-4144-b658-b00c557f0441/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-12-16T09:53:57+0000">
+      <event popularity="0.081146" uri="http://www.songkick.com/concerts/11282908-mazzy-star-at-o2-shepherds-bush-empire?utm_source=1196&amp;utm_medium=partner" displayName="Mazzy Star at O2 Shepherd's Bush Empire (June 3, 2012)" id="11282908" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.224138" lat="51.5037539"/>
+        <start time="" date="2012-06-03" datetime=""/>
+        <performance displayName="Mazzy Star" billingIndex="1" id="21861838" billing="headline">
+          <artist uri="http://www.songkick.com/artists/96825-mazzy-star?utm_source=1196&amp;utm_medium=partner" displayName="Mazzy Star" id="96825">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:c48d4327-8122-4286-af66-05e1ee6ac4d8.xml" mbid="c48d4327-8122-4286-af66-05e1ee6ac4d8"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/38320-o2-shepherds-bush-empire?utm_source=1196&amp;utm_medium=partner" displayName="O2 Shepherd's Bush Empire" id="38320" lng="-0.224138" lat="51.5037539">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/96825-mazzy-star?utm_source=1196&amp;utm_medium=partner" displayName="Mazzy Star" id="96825" onTourUntil="2012-07-13">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:c48d4327-8122-4286-af66-05e1ee6ac4d8.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:c48d4327-8122-4286-af66-05e1ee6ac4d8/calendar.xml" mbid="c48d4327-8122-4286-af66-05e1ee6ac4d8" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:c48d4327-8122-4286-af66-05e1ee6ac4d8/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-09-06T12:25:58+0000">
+      <event popularity="0.13892" uri="http://www.songkick.com/festivals/284073/id/10274523-no-direction-home-festival-?utm_source=1196&amp;utm_medium=partner" displayName="No Direction Home Festival 2012" id="10274523" type="Festival" status="ok">
+        <location city="Mansfield, UK" lng="-1.2" lat="53.1333"/>
+        <series displayName="No Direction Home Festival"/>
+        <end time="" date="2012-06-10" datetime=""/>
+        <start time="" date="2012-06-08" datetime=""/>
+        <performance displayName="Andrew Bird" billingIndex="1" id="21844734" billing="headline">
+          <artist uri="http://www.songkick.com/artists/395944-andrew-bird?utm_source=1196&amp;utm_medium=partner" displayName="Andrew Bird" id="395944">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:081b133e-ce74-42ba-92c1-c18234acb532.xml" mbid="081b133e-ce74-42ba-92c1-c18234acb532"/>
+          </artist>
+        </performance>
+        <performance displayName="Slow Club" billingIndex="2" id="21844794" billing="headline">
+          <artist uri="http://www.songkick.com/artists/419992-slow-club?utm_source=1196&amp;utm_medium=partner" displayName="Slow Club" id="419992">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:2ab03ac8-d2ff-454e-9ec5-526540aa18c8.xml" mbid="2ab03ac8-d2ff-454e-9ec5-526540aa18c8"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:36eae729-eb71-4ab0-82f8-9bef3255d881.xml" mbid="36eae729-eb71-4ab0-82f8-9bef3255d881"/>
+          </artist>
+        </performance>
+        <performance displayName="The Low Anthem" billingIndex="3" id="21844804" billing="headline">
+          <artist uri="http://www.songkick.com/artists/934168-low-anthem?utm_source=1196&amp;utm_medium=partner" displayName="The Low Anthem" id="934168">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9597a87d-73aa-47f9-a62c-3fc9a74ad386.xml" mbid="9597a87d-73aa-47f9-a62c-3fc9a74ad386"/>
+          </artist>
+        </performance>
+        <performance displayName="Gruff Rhys" billingIndex="4" id="21844764" billing="headline">
+          <artist uri="http://www.songkick.com/artists/210110-gruff-rhys?utm_source=1196&amp;utm_medium=partner" displayName="Gruff Rhys" id="210110">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:254caf14-7b63-47d1-aa9f-acc7cb541814.xml" mbid="254caf14-7b63-47d1-aa9f-acc7cb541814"/>
+          </artist>
+        </performance>
+        <performance displayName="Veronica Falls" billingIndex="5" id="21844824" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2451336-veronica-falls?utm_source=1196&amp;utm_medium=partner" displayName="Veronica Falls" id="2451336">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5c9fefe7-7bbb-47f8-b54e-9b5361beed5c.xml" mbid="5c9fefe7-7bbb-47f8-b54e-9b5361beed5c"/>
+          </artist>
+        </performance>
+        <performance displayName="Dirty Three" billingIndex="6" id="21844759" billing="headline">
+          <artist uri="http://www.songkick.com/artists/66408-dirty-three?utm_source=1196&amp;utm_medium=partner" displayName="Dirty Three" id="66408">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:af8bb921-4d67-4f0d-ba17-6215315f92e4.xml" mbid="af8bb921-4d67-4f0d-ba17-6215315f92e4"/>
+          </artist>
+        </performance>
+        <performance displayName="Moon Duo" billingIndex="7" id="21844789" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2688336-moon-duo?utm_source=1196&amp;utm_medium=partner" displayName="Moon Duo" id="2688336">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:7f89e20f-46f3-4571-9ae0-b29dcdb4bbe9.xml" mbid="7f89e20f-46f3-4571-9ae0-b29dcdb4bbe9"/>
+          </artist>
+        </performance>
+        <performance displayName="Django Django" billingIndex="8" id="21844754" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2296471-django-django?utm_source=1196&amp;utm_medium=partner" displayName="Django Django" id="2296471">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:4bfce038-b1a0-4bc4-abe1-b679ab900f03.xml" mbid="4bfce038-b1a0-4bc4-abe1-b679ab900f03"/>
+          </artist>
+        </performance>
+        <performance displayName="The Unthanks" billingIndex="9" id="21844809" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2426336-unthanks?utm_source=1196&amp;utm_medium=partner" displayName="The Unthanks" id="2426336">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:7e54bb8a-d5c6-4dab-9bb8-a40b418e3532.xml" mbid="7e54bb8a-d5c6-4dab-9bb8-a40b418e3532"/>
+          </artist>
+        </performance>
+        <performance displayName="Lanterns on the Lake" billingIndex="10" id="21844769" billing="headline">
+          <artist uri="http://www.songkick.com/artists/587074-lanterns-on-the-lake?utm_source=1196&amp;utm_medium=partner" displayName="Lanterns on the Lake" id="587074">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:a2fc6b65-a973-46b7-9a5a-4e8962ea9c03.xml" mbid="a2fc6b65-a973-46b7-9a5a-4e8962ea9c03"/>
+          </artist>
+        </performance>
+        <performance displayName="Spectrals" billingIndex="11" id="21844799" billing="headline">
+          <artist uri="http://www.songkick.com/artists/1689991-spectrals?utm_source=1196&amp;utm_medium=partner" displayName="Spectrals" id="1689991"/>
+        </performance>
+        <performance displayName="Diagrams" billingIndex="12" id="21844749" billing="headline">
+          <artist uri="http://www.songkick.com/artists/4265581-diagrams?utm_source=1196&amp;utm_medium=partner" displayName="Diagrams" id="4265581"/>
+        </performance>
+        <performance displayName="Martin Simpson" billingIndex="13" id="21844784" billing="headline">
+          <artist uri="http://www.songkick.com/artists/485986-martin-simpson?utm_source=1196&amp;utm_medium=partner" displayName="Martin Simpson" id="485986">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:e229170f-0340-44a9-a39f-f319c64bde75.xml" mbid="e229170f-0340-44a9-a39f-f319c64bde75"/>
+          </artist>
+        </performance>
+        <performance displayName="Martin Carthy" billingIndex="14" id="21844779" billing="headline">
+          <artist uri="http://www.songkick.com/artists/345612-martin-carthy?utm_source=1196&amp;utm_medium=partner" displayName="Martin Carthy" id="345612">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:16bf7aa1-7b25-427c-8d5b-aeb5b5da4896.xml" mbid="16bf7aa1-7b25-427c-8d5b-aeb5b5da4896"/>
+          </artist>
+        </performance>
+        <performance displayName="David Thomas Broughton" billingIndex="15" id="21844744" billing="headline">
+          <artist uri="http://www.songkick.com/artists/212109-david-thomas-broughton?utm_source=1196&amp;utm_medium=partner" displayName="David Thomas Broughton" id="212109">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:05926c60-7f4a-45d5-a2a0-25d575a746f0.xml" mbid="05926c60-7f4a-45d5-a2a0-25d575a746f0"/>
+          </artist>
+        </performance>
+        <performance displayName="Liz Green" billingIndex="16" id="21844774" billing="headline">
+          <artist uri="http://www.songkick.com/artists/593769-liz-green?utm_source=1196&amp;utm_medium=partner" displayName="Liz Green" id="593769">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5d986128-516b-4e55-ba64-ba853319ee34.xml" mbid="5d986128-516b-4e55-ba64-ba853319ee34"/>
+          </artist>
+        </performance>
+        <performance displayName="Beth Jeans Houghton &amp; The Hooves of Destiny" billingIndex="17" id="21844739" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2924066-beth-jeans-houghton-and-the-hooves-of-destiny?utm_source=1196&amp;utm_medium=partner" displayName="Beth Jeans Houghton &amp; The Hooves of Destiny" id="2924066"/>
+        </performance>
+        <performance displayName="The Brighouse" billingIndex="18" id="21844814" billing="headline">
+          <artist uri="http://www.songkick.com/artists/4992734-brighouse?utm_source=1196&amp;utm_medium=partner" displayName="The Brighouse" id="4992734"/>
+        </performance>
+        <performance displayName="Rastrick Brass Band" billingIndex="19" id="21844819" billing="headline">
+          <artist uri="http://www.songkick.com/artists/4992739-rastrick-brass-band?utm_source=1196&amp;utm_medium=partner" displayName="Rastrick Brass Band" id="4992739"/>
+        </performance>
+        <venue uri="" displayName="Unknown venue" id="" lng="" lat="">
+          <metroArea uri="http://www.songkick.com/metro_areas/24549-uk-nottingham?utm_source=1196&amp;utm_medium=partner" displayName="Nottingham" id="24549">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-17T00:44:12+0000">
+      <event uri="http://www.songkick.com/concerts/11887573-suzanne-vega-at-union-chapel?utm_source=1196&amp;utm_medium=partner" popularity="0.058805" displayName="Suzanne Vega at Union Chapel (June 13, 2012)" id="11887573" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1028893" lat="51.5443277"/>
+        <start time="19:30:00" date="2012-06-13" datetime="2012-06-13T19:30:00+0000"/>
+        <performance displayName="Suzanne Vega" billingIndex="1" id="23055488" billing="headline">
+          <artist uri="http://www.songkick.com/artists/73962-suzanne-vega?utm_source=1196&amp;utm_medium=partner" displayName="Suzanne Vega" id="73962">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:cf119120-7df5-47d7-9dec-49f8837a4e40.xml" mbid="cf119120-7df5-47d7-9dec-49f8837a4e40"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1816-union-chapel?utm_source=1196&amp;utm_medium=partner" displayName="Union Chapel" id="1816" lng="-0.1028893" lat="51.5443277">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/73962-suzanne-vega?utm_source=1196&amp;utm_medium=partner" displayName="Suzanne Vega" id="73962" onTourUntil="2012-06-21">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:cf119120-7df5-47d7-9dec-49f8837a4e40.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:cf119120-7df5-47d7-9dec-49f8837a4e40/calendar.xml" mbid="cf119120-7df5-47d7-9dec-49f8837a4e40" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:cf119120-7df5-47d7-9dec-49f8837a4e40/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-08T16:21:40+0000">
+      <event popularity="0.001728" uri="http://www.songkick.com/concerts/10926648-lucy-wainwright-roche-at-slaughtered-lamb?utm_source=1196&amp;utm_medium=partner" displayName="Lucy Wainwright Roche at The Slaughtered Lamb (June 14, 2012)" id="10926648" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1011681" lat="51.5233496"/>
+        <start time="20:00:00" date="2012-06-14" datetime="2012-06-14T20:00:00+0000"/>
+        <performance displayName="Lucy Wainwright Roche" billingIndex="1" id="21166548" billing="headline">
+          <artist uri="http://www.songkick.com/artists/481361-lucy-wainwright-roche?utm_source=1196&amp;utm_medium=partner" displayName="Lucy Wainwright Roche" id="481361">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:c6122382-cff2-427b-807b-d54138db59b9.xml" mbid="c6122382-cff2-427b-807b-d54138db59b9"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/6950-slaughtered-lamb?utm_source=1196&amp;utm_medium=partner" displayName="The Slaughtered Lamb" id="6950" lng="-0.1011681" lat="51.5233496">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="i_might_go"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-18T16:15:46+0000">
+      <event uri="http://www.songkick.com/concerts/11561843-tom-petty-and-the-heartbreakers-at-royal-albert-hall?utm_source=1196&amp;utm_medium=partner" popularity="0.158826" displayName="Tom Petty And The Heartbreakers at Royal Albert Hall (June 18, 2012)" id="11561843" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.128" lat="51.5078"/>
+        <start time="19:30:00" date="2012-06-18" datetime="2012-06-18T19:30:00+0000"/>
+        <performance displayName="Tom Petty And The Heartbreakers" billingIndex="1" id="22401118" billing="headline">
+          <artist uri="http://www.songkick.com/artists/226762-tom-petty-and-the-heartbreakers?utm_source=1196&amp;utm_medium=partner" displayName="Tom Petty And The Heartbreakers" id="226762">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f93dbc64-6f08-4033-bcc7-8a0bb4689849.xml" mbid="f93dbc64-6f08-4033-bcc7-8a0bb4689849"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/17538-royal-albert-hall?utm_source=1196&amp;utm_medium=partner" displayName="Royal Albert Hall" id="17538" lng="" lat="">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/226762-tom-petty-and-the-heartbreakers?utm_source=1196&amp;utm_medium=partner" displayName="Tom Petty And The Heartbreakers" id="226762" onTourUntil="2012-06-30">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f93dbc64-6f08-4033-bcc7-8a0bb4689849.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:f93dbc64-6f08-4033-bcc7-8a0bb4689849/calendar.xml" mbid="f93dbc64-6f08-4033-bcc7-8a0bb4689849" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:f93dbc64-6f08-4033-bcc7-8a0bb4689849/setlists.xml"/>
+        </trackedArtist>
+        <trackedArtist uri="http://www.songkick.com/artists/253438-tom-petty?utm_source=1196&amp;utm_medium=partner" displayName="Tom Petty" id="253438" onTourUntil="2012-06-27">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5ca3f318-d028-4151-ac73-78e2b2d6cdcc.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:5ca3f318-d028-4151-ac73-78e2b2d6cdcc/calendar.xml" mbid="5ca3f318-d028-4151-ac73-78e2b2d6cdcc" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:5ca3f318-d028-4151-ac73-78e2b2d6cdcc/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-10T16:06:32+0000">
+      <event uri="http://www.songkick.com/concerts/11816163-best-coast-at-o2-shepherds-bush-empire?utm_source=1196&amp;utm_medium=partner" popularity="0.107825" displayName="Best Coast at O2 Shepherd's Bush Empire (June 20, 2012)" id="11816163" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.224138" lat="51.5037539"/>
+        <start time="19:00:00" date="2012-06-20" datetime="2012-06-20T19:00:00+0000"/>
+        <performance displayName="Best Coast" billingIndex="1" id="22913323" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2482266-best-coast?utm_source=1196&amp;utm_medium=partner" displayName="Best Coast" id="2482266">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5ab8835e-ac44-4055-9c11-7878199606b5.xml" mbid="5ab8835e-ac44-4055-9c11-7878199606b5"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/38320-o2-shepherds-bush-empire?utm_source=1196&amp;utm_medium=partner" displayName="O2 Shepherd's Bush Empire" id="38320" lng="-0.224138" lat="51.5037539">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/2482266-best-coast?utm_source=1196&amp;utm_medium=partner" displayName="Best Coast" id="2482266" onTourUntil="2012-06-24">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5ab8835e-ac44-4055-9c11-7878199606b5.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:5ab8835e-ac44-4055-9c11-7878199606b5/calendar.xml" mbid="5ab8835e-ac44-4055-9c11-7878199606b5" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:5ab8835e-ac44-4055-9c11-7878199606b5/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-15T16:04:09+0000">
+      <event popularity="0.031987" uri="http://www.songkick.com/concerts/11868203-pierces-at-union-chapel?utm_source=1196&amp;utm_medium=partner" displayName="The Pierces with The Pierces Including the Blood Red Rose at Union Chapel (June 26, 2012)" id="11868203" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1028893" lat="51.5443277"/>
+        <start time="19:00:00" date="2012-06-26" datetime="2012-06-26T19:00:00+0000"/>
+        <performance displayName="The Pierces" billingIndex="1" id="23015383" billing="headline">
+          <artist uri="http://www.songkick.com/artists/400791-pierces?utm_source=1196&amp;utm_medium=partner" displayName="The Pierces" id="400791">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9f4452f2-0451-455a-80c4-c873dda66eca.xml" mbid="9f4452f2-0451-455a-80c4-c873dda66eca"/>
+          </artist>
+        </performance>
+        <performance displayName="The Pierces Including the Blood Red Rose" billingIndex="2" id="23287128" billing="support">
+          <artist uri="http://www.songkick.com/artists/5216088-pierces-including-the-blood-red-rose?utm_source=1196&amp;utm_medium=partner" displayName="The Pierces Including the Blood Red Rose" id="5216088"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1816-union-chapel?utm_source=1196&amp;utm_medium=partner" displayName="Union Chapel" id="1816" lng="-0.1028893" lat="51.5443277">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/400791-pierces?utm_source=1196&amp;utm_medium=partner" displayName="The Pierces" id="400791" onTourUntil="2012-06-26">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9f4452f2-0451-455a-80c4-c873dda66eca.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:9f4452f2-0451-455a-80c4-c873dda66eca/calendar.xml" mbid="9f4452f2-0451-455a-80c4-c873dda66eca" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:9f4452f2-0451-455a-80c4-c873dda66eca/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-07T10:10:53+0000">
+      <event popularity="0.0" uri="http://www.songkick.com/concerts/11768538-alanis-morissette-at-o2-academy-brixton?utm_source=1196&amp;utm_medium=partner" displayName="Alanis Morissette at O2 Academy Brixton (June 27, 2012)" id="11768538" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1148897" lat="51.4651204"/>
+        <start time="" date="2012-06-27" datetime=""/>
+        <performance displayName="Alanis Morissette" billingIndex="1" id="22817008" billing="headline">
+          <artist uri="http://www.songkick.com/artists/330539-alanis-morissette?utm_source=1196&amp;utm_medium=partner" displayName="Alanis Morissette" id="330539">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:4bdcee62-4902-4773-8cd1-e252e2e31225.xml" mbid="4bdcee62-4902-4773-8cd1-e252e2e31225"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/17522-o2-academy-brixton?utm_source=1196&amp;utm_medium=partner" displayName="O2 Academy Brixton" id="17522" lng="-0.1148897" lat="51.4651204">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/330539-alanis-morissette?utm_source=1196&amp;utm_medium=partner" displayName="Alanis Morissette" id="330539" onTourUntil="2012-07-18">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:4bdcee62-4902-4773-8cd1-e252e2e31225.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:4bdcee62-4902-4773-8cd1-e252e2e31225/calendar.xml" mbid="4bdcee62-4902-4773-8cd1-e252e2e31225" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:4bdcee62-4902-4773-8cd1-e252e2e31225/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-21T10:27:58+0000">
+      <event popularity="0.049509" uri="http://www.songkick.com/festivals/17801/id/11031868-hard-rock-calling-2012?utm_source=1196&amp;utm_medium=partner" displayName="Hard Rock Calling 2012" id="11031868" type="Festival" status="ok">
+        <location city="London, UK" lng="-0.128" lat="51.5078"/>
+        <series displayName="Hard Rock Calling"/>
+        <end time="" date="2012-07-15" datetime=""/>
+        <start time="14:00:00" date="2012-07-13" datetime="2012-07-13T14:00:00+0000"/>
+        <performance displayName="Bruce Springsteen &amp; The E Street Band" billingIndex="1" id="21402698" billing="headline">
+          <artist uri="http://www.songkick.com/artists/423316-bruce-springsteen-and-the-e-street-band?utm_source=1196&amp;utm_medium=partner" displayName="Bruce Springsteen &amp; The E Street Band" id="423316">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5a1283bf-81d5-4700-8919-683eeaaf2beb.xml" mbid="5a1283bf-81d5-4700-8919-683eeaaf2beb"/>
+          </artist>
+        </performance>
+        <venue uri="" displayName="Unknown venue" id="" lng="" lat="">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-25T11:34:49+0000">
+      <event uri="http://www.songkick.com/festivals/1508/id/11084633-womad-?utm_source=1196&amp;utm_medium=partner" popularity="0.0" displayName="Womad 2012" id="11084633" type="Festival" status="ok">
+        <location city="Malmesbury, UK" lng="-2.1" lat="51.585"/>
+        <series displayName="Womad"/>
+        <end time="" date="2012-07-29" datetime=""/>
+        <start time="" date="2012-07-27" datetime=""/>
+        <performance displayName="Buena Vista Social Club" billingIndex="1" id="23233243" billing="headline">
+          <artist uri="http://www.songkick.com/artists/126820-buena-vista-social-club?utm_source=1196&amp;utm_medium=partner" displayName="Buena Vista Social Club" id="126820">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:2a85ecff-41e9-4be1-aca6-c87054a4c334.xml" mbid="2a85ecff-41e9-4be1-aca6-c87054a4c334"/>
+          </artist>
+        </performance>
+        <performance displayName="Ane Brun" billingIndex="2" id="23233233" billing="headline">
+          <artist uri="http://www.songkick.com/artists/73101-ane-brun?utm_source=1196&amp;utm_medium=partner" displayName="Ane Brun" id="73101">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:d735497b-25f9-4503-8fb5-f50150730c18.xml" mbid="d735497b-25f9-4503-8fb5-f50150730c18"/>
+          </artist>
+        </performance>
+        <performance displayName="Boubacar Traoré" billingIndex="3" id="23233238" billing="headline">
+          <artist uri="http://www.songkick.com/artists/487750-boubacar-traore?utm_source=1196&amp;utm_medium=partner" displayName="Boubacar Traoré" id="487750">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5cc16125-511c-4669-9e56-651fec2690c3.xml" mbid="5cc16125-511c-4669-9e56-651fec2690c3"/>
+          </artist>
+        </performance>
+        <performance displayName="Grupo Fantasma" billingIndex="4" id="23233258" billing="headline">
+          <artist uri="http://www.songkick.com/artists/504520-grupo-fantasma?utm_source=1196&amp;utm_medium=partner" displayName="Grupo Fantasma" id="504520">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:d1aed914-6a94-4643-9af4-b80682aa6c14.xml" mbid="d1aed914-6a94-4643-9af4-b80682aa6c14"/>
+          </artist>
+        </performance>
+        <performance displayName="TOKYO SKA PARADISE ORCHESTRA" billingIndex="5" id="23233218" billing="headline">
+          <artist uri="http://www.songkick.com/artists/305497-tokyo-ska-paradise-orchestra?utm_source=1196&amp;utm_medium=partner" displayName="TOKYO SKA PARADISE ORCHESTRA" id="305497">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f1bace37-193b-462f-96ce-49820e5f5d1b.xml" mbid="f1bace37-193b-462f-96ce-49820e5f5d1b"/>
+          </artist>
+        </performance>
+        <performance displayName="Peatbog Faeries" billingIndex="6" id="23233223" billing="headline">
+          <artist uri="http://www.songkick.com/artists/42898-peatbog-faeries?utm_source=1196&amp;utm_medium=partner" displayName="Peatbog Faeries" id="42898">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:59901983-7327-48c6-aaa3-910bbffd9827.xml" mbid="59901983-7327-48c6-aaa3-910bbffd9827"/>
+          </artist>
+        </performance>
+        <performance displayName="Raghu Dixit" billingIndex="7" id="23233248" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2477091-raghu-dixit?utm_source=1196&amp;utm_medium=partner" displayName="Raghu Dixit" id="2477091">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:3a380250-66c9-4548-b27d-fe6edfe0e2ae.xml" mbid="3a380250-66c9-4548-b27d-fe6edfe0e2ae"/>
+          </artist>
+        </performance>
+        <performance displayName="Lo'jo" billingIndex="8" id="23233193" billing="headline">
+          <artist uri="http://www.songkick.com/artists/61502-lojo?utm_source=1196&amp;utm_medium=partner" displayName="Lo'jo" id="61502">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:a1c1fb23-38e0-4d7f-8fed-3c81fef5ad0f.xml" mbid="a1c1fb23-38e0-4d7f-8fed-3c81fef5ad0f"/>
+          </artist>
+        </performance>
+        <performance displayName="Spiro" billingIndex="9" id="23233198" billing="headline">
+          <artist uri="http://www.songkick.com/artists/178741-spiro?utm_source=1196&amp;utm_medium=partner" displayName="Spiro" id="178741">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:ab4856de-1be0-4fd3-8d41-d4a1f3f3e0c4.xml" mbid="ab4856de-1be0-4fd3-8d41-d4a1f3f3e0c4"/>
+          </artist>
+        </performance>
+        <performance displayName="Dizraeli and the Small Gods" billingIndex="10" id="23233253" billing="headline">
+          <artist uri="http://www.songkick.com/artists/3203486-dizraeli-and-the-small-gods?utm_source=1196&amp;utm_medium=partner" displayName="Dizraeli and the Small Gods" id="3203486"/>
+        </performance>
+        <performance displayName="Terem Quartet" billingIndex="11" id="23233208" billing="headline">
+          <artist uri="http://www.songkick.com/artists/438516-terem-quartet?utm_source=1196&amp;utm_medium=partner" displayName="Terem Quartet" id="438516"/>
+        </performance>
+        <performance displayName="Narasirato" billingIndex="12" id="23233213" billing="headline">
+          <artist uri="http://www.songkick.com/artists/4169731-narasirato?utm_source=1196&amp;utm_medium=partner" displayName="Narasirato" id="4169731"/>
+        </performance>
+        <performance displayName="The Alaev Family" billingIndex="13" id="23233228" billing="headline">
+          <artist uri="http://www.songkick.com/artists/5072513-alaev-family?utm_source=1196&amp;utm_medium=partner" displayName="The Alaev Family" id="5072513"/>
+        </performance>
+        <performance displayName="Joe Driscoll &amp; Seckou Kouyate" billingIndex="14" id="23233203" billing="headline">
+          <artist uri="http://www.songkick.com/artists/5206808-joe-driscoll-and-seckou-kouyate?utm_source=1196&amp;utm_medium=partner" displayName="Joe Driscoll &amp; Seckou Kouyate" id="5206808"/>
+        </performance>
+        <performance displayName="Sensational Space Shifters" billingIndex="15" id="23233188" billing="headline">
+          <artist uri="http://www.songkick.com/artists/5206803-sensational-space-shifters?utm_source=1196&amp;utm_medium=partner" displayName="Sensational Space Shifters" id="5206803"/>
+        </performance>
+        <venue uri="" displayName="Unknown venue" id="" lng="" lat="">
+          <metroArea uri="http://www.songkick.com/metro_areas/24556-uk-swindon?utm_source=1196&amp;utm_medium=partner" displayName="Swindon" id="24556">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/73101-ane-brun?utm_source=1196&amp;utm_medium=partner" displayName="Ane Brun" id="73101" onTourUntil="2012-09-06">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:d735497b-25f9-4503-8fb5-f50150730c18.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:d735497b-25f9-4503-8fb5-f50150730c18/calendar.xml" mbid="d735497b-25f9-4503-8fb5-f50150730c18" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:d735497b-25f9-4503-8fb5-f50150730c18/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-09-06T08:22:59+0000">
+      <event popularity="0.217994" uri="http://www.songkick.com/festivals/119/id/10274518-end-of-the-road-festival-2012?utm_source=1196&amp;utm_medium=partner" displayName="End of the Road Festival 2012" id="10274518" type="Festival" status="ok">
+        <location city="Salisbury, UK" lng="-1.78333" lat="51.0667"/>
+        <series displayName="End of the Road Festival"/>
+        <end time="" date="2012-09-02" datetime=""/>
+        <start time="" date="2012-08-31" datetime=""/>
+        <performance displayName="Grizzly Bear" billingIndex="1" id="21724253" billing="headline">
+          <artist uri="http://www.songkick.com/artists/469032-grizzly-bear?utm_source=1196&amp;utm_medium=partner" displayName="Grizzly Bear" id="469032">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:59a7fbcb-ff74-494d-abd0-9c82359040c9.xml" mbid="59a7fbcb-ff74-494d-abd0-9c82359040c9"/>
+          </artist>
+        </performance>
+        <performance displayName="Beach House" billingIndex="2" id="21724258" billing="headline">
+          <artist uri="http://www.songkick.com/artists/273059-beach-house?utm_source=1196&amp;utm_medium=partner" displayName="Beach House" id="273059">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:d5cc67b8-1cc4-453b-96e8-44487acdebea.xml" mbid="d5cc67b8-1cc4-453b-96e8-44487acdebea"/>
+          </artist>
+        </performance>
+        <performance displayName="The Antlers" billingIndex="3" id="21724273" billing="headline">
+          <artist uri="http://www.songkick.com/artists/387759-antlers?utm_source=1196&amp;utm_medium=partner" displayName="The Antlers" id="387759">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:ff0d20a7-a69e-4207-a18f-ca808759499d.xml" mbid="ff0d20a7-a69e-4207-a18f-ca808759499d"/>
+          </artist>
+        </performance>
+        <performance displayName="Midlake" billingIndex="4" id="22832223" billing="headline">
+          <artist uri="http://www.songkick.com/artists/66246-midlake?utm_source=1196&amp;utm_medium=partner" displayName="Midlake" id="66246">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:da90b5da-349e-4906-a0b4-805f5e46190d.xml" mbid="da90b5da-349e-4906-a0b4-805f5e46190d"/>
+          </artist>
+        </performance>
+        <performance displayName="First Aid Kit" billingIndex="5" id="21724308" billing="headline">
+          <artist uri="http://www.songkick.com/artists/534393-first-aid-kit?utm_source=1196&amp;utm_medium=partner" displayName="First Aid Kit" id="534393">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:e4466078-fb0f-4899-98a2-7c7dfeb14714.xml" mbid="e4466078-fb0f-4899-98a2-7c7dfeb14714"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:373faa02-74d7-4b1d-9b47-7574ad510f8d.xml" mbid="373faa02-74d7-4b1d-9b47-7574ad510f8d"/>
+          </artist>
+        </performance>
+        <performance displayName="The Low Anthem" billingIndex="6" id="22832218" billing="headline">
+          <artist uri="http://www.songkick.com/artists/934168-low-anthem?utm_source=1196&amp;utm_medium=partner" displayName="The Low Anthem" id="934168">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9597a87d-73aa-47f9-a62c-3fc9a74ad386.xml" mbid="9597a87d-73aa-47f9-a62c-3fc9a74ad386"/>
+          </artist>
+        </performance>
+        <performance displayName="Tindersticks" billingIndex="7" id="21724268" billing="headline">
+          <artist uri="http://www.songkick.com/artists/138684-tindersticks?utm_source=1196&amp;utm_medium=partner" displayName="Tindersticks" id="138684">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:4306a798-e2f8-4192-9a45-2fd41cdae60c.xml" mbid="4306a798-e2f8-4192-9a45-2fd41cdae60c"/>
+          </artist>
+        </performance>
+        <performance displayName="Justin Townes Earle" billingIndex="8" id="21724298" billing="headline">
+          <artist uri="http://www.songkick.com/artists/455107-justin-townes-earle?utm_source=1196&amp;utm_medium=partner" displayName="Justin Townes Earle" id="455107">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:6e0d1400-a880-4b2c-8305-e9b985a4549c.xml" mbid="6e0d1400-a880-4b2c-8305-e9b985a4549c"/>
+          </artist>
+        </performance>
+        <performance displayName="I Break Horses" billingIndex="9" id="21724293" billing="headline">
+          <artist uri="http://www.songkick.com/artists/919230-i-break-horses?utm_source=1196&amp;utm_medium=partner" displayName="I Break Horses" id="919230"/>
+        </performance>
+        <performance displayName="John Grant" billingIndex="10" id="22832203" billing="headline">
+          <artist uri="http://www.songkick.com/artists/576907-john-grant?utm_source=1196&amp;utm_medium=partner" displayName="John Grant" id="576907">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:27ca9c68-650a-4659-b8ef-013e5698ff55.xml" mbid="27ca9c68-650a-4659-b8ef-013e5698ff55"/>
+          </artist>
+        </performance>
+        <performance displayName="The Strange Boys" billingIndex="11" id="21724263" billing="headline">
+          <artist uri="http://www.songkick.com/artists/567797-strange-boys?utm_source=1196&amp;utm_medium=partner" displayName="The Strange Boys" id="567797">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:466d8c39-0367-40da-b701-66f6cc798e4e.xml" mbid="466d8c39-0367-40da-b701-66f6cc798e4e"/>
+          </artist>
+        </performance>
+        <performance displayName="Veronica Falls" billingIndex="12" id="22832243" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2451336-veronica-falls?utm_source=1196&amp;utm_medium=partner" displayName="Veronica Falls" id="2451336">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5c9fefe7-7bbb-47f8-b54e-9b5361beed5c.xml" mbid="5c9fefe7-7bbb-47f8-b54e-9b5361beed5c"/>
+          </artist>
+        </performance>
+        <performance displayName="Dirty Three" billingIndex="13" id="22832193" billing="headline">
+          <artist uri="http://www.songkick.com/artists/66408-dirty-three?utm_source=1196&amp;utm_medium=partner" displayName="Dirty Three" id="66408">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:af8bb921-4d67-4f0d-ba17-6215315f92e4.xml" mbid="af8bb921-4d67-4f0d-ba17-6215315f92e4"/>
+          </artist>
+        </performance>
+        <performance displayName="Mountain Man" billingIndex="14" id="21724283" billing="headline">
+          <artist uri="http://www.songkick.com/artists/740937-mountain-man?utm_source=1196&amp;utm_medium=partner" displayName="Mountain Man" id="740937">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:f281b9de-a9de-422c-b868-9095669ab837.xml" mbid="f281b9de-a9de-422c-b868-9095669ab837"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:ecc6e248-9ec4-4150-bbd2-d2b112f0b365.xml" mbid="ecc6e248-9ec4-4150-bbd2-d2b112f0b365"/>
+          </artist>
+        </performance>
+        <performance displayName="Robyn Hitchcock" billingIndex="15" id="21724318" billing="headline">
+          <artist uri="http://www.songkick.com/artists/329986-robyn-hitchcock?utm_source=1196&amp;utm_medium=partner" displayName="Robyn Hitchcock" id="329986">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:0584e561-1442-46c9-9593-923c34571eb7.xml" mbid="0584e561-1442-46c9-9593-923c34571eb7"/>
+          </artist>
+        </performance>
+        <performance displayName="Alessi's Ark" billingIndex="16" id="22832183" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2349569-alessis-ark?utm_source=1196&amp;utm_medium=partner" displayName="Alessi's Ark" id="2349569">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:06e9e2ed-aef3-434a-a99d-c8bd6842e79e.xml" mbid="06e9e2ed-aef3-434a-a99d-c8bd6842e79e"/>
+          </artist>
+        </performance>
+        <performance displayName="Richard Buckner" billingIndex="17" id="21724303" billing="headline">
+          <artist uri="http://www.songkick.com/artists/301054-richard-buckner?utm_source=1196&amp;utm_medium=partner" displayName="Richard Buckner" id="301054">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:fec02932-60cd-46ee-a70c-05c07905ae77.xml" mbid="fec02932-60cd-46ee-a70c-05c07905ae77"/>
+          </artist>
+        </performance>
+        <performance displayName="Lanterns on the Lake" billingIndex="18" id="22832213" billing="headline">
+          <artist uri="http://www.songkick.com/artists/587074-lanterns-on-the-lake?utm_source=1196&amp;utm_medium=partner" displayName="Lanterns on the Lake" id="587074">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:a2fc6b65-a973-46b7-9a5a-4e8962ea9c03.xml" mbid="a2fc6b65-a973-46b7-9a5a-4e8962ea9c03"/>
+          </artist>
+        </performance>
+        <performance displayName="Delicate Steve" billingIndex="19" id="21724348" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2987671-delicate-steve?utm_source=1196&amp;utm_medium=partner" displayName="Delicate Steve" id="2987671"/>
+        </performance>
+        <performance displayName="Jonathan Wilson" billingIndex="20" id="22832208" billing="headline">
+          <artist uri="http://www.songkick.com/artists/1055577-jonathan-wilson?utm_source=1196&amp;utm_medium=partner" displayName="Jonathan Wilson" id="1055577">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:3fad7d60-f0da-43c7-8ed5-b690598bc897.xml" mbid="3fad7d60-f0da-43c7-8ed5-b690598bc897"/>
+          </artist>
+        </performance>
+        <performance displayName="Roy Harper" billingIndex="21" id="22832238" billing="headline">
+          <artist uri="http://www.songkick.com/artists/300195-roy-harper?utm_source=1196&amp;utm_medium=partner" displayName="Roy Harper" id="300195">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:8fc0c1d2-9be0-464f-98ee-ae7ae5b0086b.xml" mbid="8fc0c1d2-9be0-464f-98ee-ae7ae5b0086b"/>
+          </artist>
+        </performance>
+        <performance displayName="Doug Paisley" billingIndex="22" id="21724313" billing="headline">
+          <artist uri="http://www.songkick.com/artists/1110639-doug-paisley?utm_source=1196&amp;utm_medium=partner" displayName="Doug Paisley" id="1110639">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:aee94774-d05b-45c2-84ad-e32692b7d5ca.xml" mbid="aee94774-d05b-45c2-84ad-e32692b7d5ca"/>
+          </artist>
+        </performance>
+        <performance displayName="Sleep Party People" billingIndex="23" id="21724353" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2970911-sleep-party-people?utm_source=1196&amp;utm_medium=partner" displayName="Sleep Party People" id="2970911"/>
+        </performance>
+        <performance displayName="Our Broken Garden" billingIndex="24" id="22832228" billing="headline">
+          <artist uri="http://www.songkick.com/artists/885026-our-broken-garden?utm_source=1196&amp;utm_medium=partner" displayName="Our Broken Garden" id="885026"/>
+        </performance>
+        <performance displayName="Jeffrey Lewis &amp; the Junkyard" billingIndex="25" id="21724278" billing="headline">
+          <artist uri="http://www.songkick.com/artists/4396088-jeffrey-lewis-and-the-junkyard?utm_source=1196&amp;utm_medium=partner" displayName="Jeffrey Lewis &amp; the Junkyard" id="4396088"/>
+        </performance>
+        <performance displayName="Frank Fairfield" billingIndex="26" id="21724288" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2339331-frank-fairfield?utm_source=1196&amp;utm_medium=partner" displayName="Frank Fairfield" id="2339331"/>
+        </performance>
+        <performance displayName="Cashier No. 9" billingIndex="27" id="22832188" billing="headline">
+          <artist uri="http://www.songkick.com/artists/4913688-cashier-no-9?utm_source=1196&amp;utm_medium=partner" displayName="Cashier No. 9" id="4913688"/>
+        </performance>
+        <performance displayName="Robert  Ellis" billingIndex="28" id="21724343" billing="headline">
+          <artist uri="http://www.songkick.com/artists/747553-robert-ellis?utm_source=1196&amp;utm_medium=partner" displayName="Robert  Ellis" id="747553">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:4f9e220f-a0c7-4b26-be35-70d88b3d0ca0.xml" mbid="4f9e220f-a0c7-4b26-be35-70d88b3d0ca0"/>
+          </artist>
+        </performance>
+        <performance displayName="Driver Drive Faster" billingIndex="29" id="21724338" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2529141-driver-drive-faster?utm_source=1196&amp;utm_medium=partner" displayName="Driver Drive Faster" id="2529141"/>
+        </performance>
+        <performance displayName="Stranded Horse" billingIndex="30" id="21724323" billing="headline">
+          <artist uri="http://www.songkick.com/artists/3751626-stranded-horse?utm_source=1196&amp;utm_medium=partner" displayName="Stranded Horse" id="3751626"/>
+        </performance>
+        <performance displayName="The Moulettes" billingIndex="31" id="21724333" billing="headline">
+          <artist uri="http://www.songkick.com/artists/631534-moulettes?utm_source=1196&amp;utm_medium=partner" displayName="The Moulettes" id="631534"/>
+        </performance>
+        <performance displayName="Poor Moon" billingIndex="32" id="22832233" billing="headline">
+          <artist uri="http://www.songkick.com/artists/5045318-poor-moon?utm_source=1196&amp;utm_medium=partner" displayName="Poor Moon" id="5045318"/>
+        </performance>
+        <performance displayName="Outfit (UK)" billingIndex="33" id="21724328" billing="headline">
+          <artist uri="http://www.songkick.com/artists/4826238-outfit-uk?utm_source=1196&amp;utm_medium=partner" displayName="Outfit (UK)" id="4826238"/>
+        </performance>
+        <performance displayName="Hannah Cohen" billingIndex="34" id="22832198" billing="headline">
+          <artist uri="http://www.songkick.com/artists/5018653-hannah-cohen?utm_source=1196&amp;utm_medium=partner" displayName="Hannah Cohen" id="5018653"/>
+        </performance>
+        <venue uri="" displayName="Unknown venue" id="" lng="" lat="">
+          <metroArea uri="http://www.songkick.com/metro_areas/24584-uk-southampton?utm_source=1196&amp;utm_medium=partner" displayName="Southampton" id="24584">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-02-17T16:18:41+0000">
+      <event popularity="0.010159" uri="http://www.songkick.com/concerts/11902198-carolina-chocolate-drops-at-o2-shepherds-bush-empire?utm_source=1196&amp;utm_medium=partner" displayName="Carolina Chocolate Drops at O2 Shepherd's Bush Empire (October 9, 2012)" id="11902198" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.224138" lat="51.5037539"/>
+        <start time="19:00:00" date="2012-10-09" datetime="2012-10-09T19:00:00+0000"/>
+        <performance displayName="Carolina Chocolate Drops" billingIndex="1" id="23086813" billing="headline">
+          <artist uri="http://www.songkick.com/artists/125937-carolina-chocolate-drops?utm_source=1196&amp;utm_medium=partner" displayName="Carolina Chocolate Drops" id="125937">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9278d5f4-993d-403a-8dd8-eb61139274cf.xml" mbid="9278d5f4-993d-403a-8dd8-eb61139274cf"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/38320-o2-shepherds-bush-empire?utm_source=1196&amp;utm_medium=partner" displayName="O2 Shepherd's Bush Empire" id="38320" lng="-0.224138" lat="51.5037539">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/125937-carolina-chocolate-drops?utm_source=1196&amp;utm_medium=partner" displayName="Carolina Chocolate Drops" id="125937" onTourUntil="2012-12-16">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9278d5f4-993d-403a-8dd8-eb61139274cf.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:9278d5f4-993d-403a-8dd8-eb61139274cf/calendar.xml" mbid="9278d5f4-993d-403a-8dd8-eb61139274cf" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:9278d5f4-993d-403a-8dd8-eb61139274cf/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+  </results>
+</resultsPage>

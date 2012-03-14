@@ -1,0 +1,288 @@
+<resultsPage totalEntries="12" perPage="50" page="1" status="ok">
+  <results>
+    <calendarEntry createdAt="2012-01-20T16:40:49+0000">
+      <event popularity="0.005625" uri="http://www.songkick.com/concerts/11594363-eliza-carthy-at-lexington?utm_source=1196&amp;utm_medium=partner" displayName="Eliza Carthy with Emily Barker, The Red Clay Halo, and Left With Pictures at The Lexington (February 27, 2012)" id="11594363" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1114428" lat="51.5316937"/>
+        <start time="" date="2012-02-27" datetime=""/>
+        <performance displayName="Eliza Carthy" billingIndex="1" id="22464363" billing="headline">
+          <artist uri="http://www.songkick.com/artists/492094-eliza-carthy?utm_source=1196&amp;utm_medium=partner" displayName="Eliza Carthy" id="492094">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:19205396-3f90-4a8b-b085-a795df242a62.xml" mbid="19205396-3f90-4a8b-b085-a795df242a62"/>
+          </artist>
+        </performance>
+        <performance displayName="Emily Barker" billingIndex="2" id="22464368" billing="support">
+          <artist uri="http://www.songkick.com/artists/88225-emily-barker?utm_source=1196&amp;utm_medium=partner" displayName="Emily Barker" id="88225">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:261f009d-f62e-4bbc-bc47-5de2bf447bbc.xml" mbid="261f009d-f62e-4bbc-bc47-5de2bf447bbc"/>
+          </artist>
+        </performance>
+        <performance displayName="The Red Clay Halo" billingIndex="3" id="22464373" billing="support">
+          <artist uri="http://www.songkick.com/artists/2316473-red-clay-halo?utm_source=1196&amp;utm_medium=partner" displayName="The Red Clay Halo" id="2316473"/>
+        </performance>
+        <performance displayName="Left With Pictures" billingIndex="4" id="22464378" billing="support">
+          <artist uri="http://www.songkick.com/artists/204727-left-with-pictures?utm_source=1196&amp;utm_medium=partner" displayName="Left With Pictures" id="204727">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:219d8061-2228-48f9-9b22-f1d85a8cab43.xml" mbid="219d8061-2228-48f9-9b22-f1d85a8cab43"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/34372-lexington?utm_source=1196&amp;utm_medium=partner" displayName="The Lexington" id="34372" lng="-0.1114428" lat="51.5316937">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/204727-left-with-pictures?utm_source=1196&amp;utm_medium=partner" displayName="Left With Pictures" id="204727" onTourUntil="2012-02-27">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:219d8061-2228-48f9-9b22-f1d85a8cab43.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:219d8061-2228-48f9-9b22-f1d85a8cab43/calendar.xml" mbid="219d8061-2228-48f9-9b22-f1d85a8cab43" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:219d8061-2228-48f9-9b22-f1d85a8cab43/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-13T23:05:58+0000">
+      <event uri="http://www.songkick.com/concerts/11523183-fanfarlo-at-rough-trade-east?utm_source=1196&amp;utm_medium=partner" popularity="0.061037" displayName="Fanfarlo at Rough Trade East (February 28, 2012)" id="11523183" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.0717252" lat="51.5216951"/>
+        <start time="" date="2012-02-28" datetime=""/>
+        <performance displayName="Fanfarlo" billingIndex="1" id="22325808" billing="headline">
+          <artist uri="http://www.songkick.com/artists/361015-fanfarlo?utm_source=1196&amp;utm_medium=partner" displayName="Fanfarlo" id="361015">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:91f909a4-809a-47a7-b15f-94d6878b06cb.xml" mbid="91f909a4-809a-47a7-b15f-94d6878b06cb"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/32390-rough-trade-east?utm_source=1196&amp;utm_medium=partner" displayName="Rough Trade East" id="32390" lng="-0.0717252" lat="51.5216951">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/361015-fanfarlo?utm_source=1196&amp;utm_medium=partner" displayName="Fanfarlo" id="361015" onTourUntil="2012-05-14">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:91f909a4-809a-47a7-b15f-94d6878b06cb.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:91f909a4-809a-47a7-b15f-94d6878b06cb/calendar.xml" mbid="91f909a4-809a-47a7-b15f-94d6878b06cb" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:91f909a4-809a-47a7-b15f-94d6878b06cb/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2011-11-21T16:03:52+0000">
+      <event popularity="0.060376" uri="http://www.songkick.com/concerts/11047233-fanfarlo-at-scala?utm_source=1196&amp;utm_medium=partner" displayName="Fanfarlo with Race Horses and NZCA/Lines at Scala (March 1, 2012)" id="11047233" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1207038" lat="51.5305763"/>
+        <start time="19:30:00" date="2012-03-01" datetime="2012-03-01T19:30:00+0000"/>
+        <performance displayName="Fanfarlo" billingIndex="1" id="21417778" billing="headline">
+          <artist uri="http://www.songkick.com/artists/361015-fanfarlo?utm_source=1196&amp;utm_medium=partner" displayName="Fanfarlo" id="361015">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:91f909a4-809a-47a7-b15f-94d6878b06cb.xml" mbid="91f909a4-809a-47a7-b15f-94d6878b06cb"/>
+          </artist>
+        </performance>
+        <performance displayName="Race Horses" billingIndex="2" id="22713493" billing="support">
+          <artist uri="http://www.songkick.com/artists/2378728-race-horses?utm_source=1196&amp;utm_medium=partner" displayName="Race Horses" id="2378728">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:6c417597-f88d-46a5-9b70-bd5eaecac483.xml" mbid="6c417597-f88d-46a5-9b70-bd5eaecac483"/>
+          </artist>
+        </performance>
+        <performance displayName="NZCA/Lines" billingIndex="3" id="22778713" billing="support">
+          <artist uri="http://www.songkick.com/artists/4749753-nzcalines?utm_source=1196&amp;utm_medium=partner" displayName="NZCA/Lines" id="4749753"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/3428-scala?utm_source=1196&amp;utm_medium=partner" displayName="Scala" id="3428" lng="-0.1207038" lat="51.5305763">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="i_might_go">
+        <trackedArtist uri="http://www.songkick.com/artists/361015-fanfarlo?utm_source=1196&amp;utm_medium=partner" displayName="Fanfarlo" id="361015" onTourUntil="2012-05-14">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:91f909a4-809a-47a7-b15f-94d6878b06cb.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:91f909a4-809a-47a7-b15f-94d6878b06cb/calendar.xml" mbid="91f909a4-809a-47a7-b15f-94d6878b06cb" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:91f909a4-809a-47a7-b15f-94d6878b06cb/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-27T16:43:40+0000">
+      <event popularity="0.001913" uri="http://www.songkick.com/concerts/11666103-treetop-flyers-at-powers-bar?utm_source=1196&amp;utm_medium=partner" displayName="Treetop Flyers with Ligers at Power's Bar (March 10, 2012)" id="11666103" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.2016924" lat="51.5451312"/>
+        <start time="" date="2012-03-10" datetime=""/>
+        <performance displayName="Treetop Flyers" billingIndex="1" id="22607168" billing="headline">
+          <artist uri="http://www.songkick.com/artists/2376753-treetop-flyers?utm_source=1196&amp;utm_medium=partner" displayName="Treetop Flyers" id="2376753"/>
+        </performance>
+        <performance displayName="Ligers" billingIndex="2" id="22607173" billing="support">
+          <artist uri="http://www.songkick.com/artists/2985466-ligers?utm_source=1196&amp;utm_medium=partner" displayName="Ligers" id="2985466"/>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/49498-powers-bar?utm_source=1196&amp;utm_medium=partner" displayName="Power's Bar" id="49498" lng="-0.2016924" lat="51.5451312">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/2376753-treetop-flyers?utm_source=1196&amp;utm_medium=partner" displayName="Treetop Flyers" id="2376753" onTourUntil="2012-07-20"/>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-05T00:16:15+0000">
+      <event popularity="0.001529" uri="http://www.songkick.com/concerts/11416288-magic-lantern-at-green-note?utm_source=1196&amp;utm_medium=partner" displayName="Magic Lantern with Sam Lee at Green Note (March 15, 2012)" id="11416288" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1456995" lat="51.5374217"/>
+        <start time="" date="2012-03-15" datetime=""/>
+        <performance displayName="Magic Lantern" billingIndex="1" id="22122078" billing="headline">
+          <artist uri="http://www.songkick.com/artists/908032-magic-lantern?utm_source=1196&amp;utm_medium=partner" displayName="Magic Lantern" id="908032"/>
+        </performance>
+        <performance displayName="Sam Lee" billingIndex="2" id="22122083" billing="support">
+          <artist uri="http://www.songkick.com/artists/2234440-sam-lee?utm_source=1196&amp;utm_medium=partner" displayName="Sam Lee" id="2234440">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:1694c841-1cf6-43f0-85d1-b60b66d33dc8.xml" mbid="1694c841-1cf6-43f0-85d1-b60b66d33dc8"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:9fa031e1-a0a3-4e97-acec-a06a6bf4c7b7.xml" mbid="9fa031e1-a0a3-4e97-acec-a06a6bf4c7b7"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/3266-green-note?utm_source=1196&amp;utm_medium=partner" displayName="Green Note" id="3266" lng="-0.1456995" lat="51.5374217">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/908032-magic-lantern?utm_source=1196&amp;utm_medium=partner" displayName="Magic Lantern" id="908032" onTourUntil="2012-03-15"/>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-18T16:24:23+0000">
+      <event popularity="0.008238" uri="http://www.songkick.com/concerts/11562023-wave-pictures-at-old-blue-last?utm_source=1196&amp;utm_medium=partner" displayName="The Wave Pictures at The Old Blue Last (April 2, 2012)" id="11562023" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.0809229" lat="51.5247204"/>
+        <start time="" date="2012-04-02" datetime=""/>
+        <performance displayName="The Wave Pictures" billingIndex="1" id="22401413" billing="headline">
+          <artist uri="http://www.songkick.com/artists/560921-wave-pictures?utm_source=1196&amp;utm_medium=partner" displayName="The Wave Pictures" id="560921">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:48a0672b-7852-490f-ae3f-3d4324e510ee.xml" mbid="48a0672b-7852-490f-ae3f-3d4324e510ee"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/3256-old-blue-last?utm_source=1196&amp;utm_medium=partner" displayName="The Old Blue Last" id="3256" lng="-0.0809229" lat="51.5247204">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/560921-wave-pictures?utm_source=1196&amp;utm_medium=partner" displayName="The Wave Pictures" id="560921" onTourUntil="2012-08-17">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:48a0672b-7852-490f-ae3f-3d4324e510ee.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:48a0672b-7852-490f-ae3f-3d4324e510ee/calendar.xml" mbid="48a0672b-7852-490f-ae3f-3d4324e510ee" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:48a0672b-7852-490f-ae3f-3d4324e510ee/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-23T16:25:25+0000">
+      <event popularity="0.001632" uri="http://www.songkick.com/concerts/11613898-liz-green-at-bush-hall?utm_source=1196&amp;utm_medium=partner" displayName="Liz Green at Bush Hall (April 3, 2012)" id="11613898" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.2314873" lat="51.5062847"/>
+        <start time="19:30:00" date="2012-04-03" datetime="2012-04-03T19:30:00+0000"/>
+        <performance displayName="Liz Green" billingIndex="1" id="22504008" billing="headline">
+          <artist uri="http://www.songkick.com/artists/593769-liz-green?utm_source=1196&amp;utm_medium=partner" displayName="Liz Green" id="593769">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5d986128-516b-4e55-ba64-ba853319ee34.xml" mbid="5d986128-516b-4e55-ba64-ba853319ee34"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/17541-bush-hall?utm_source=1196&amp;utm_medium=partner" displayName="Bush Hall" id="17541" lng="-0.2314873" lat="51.5062847">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/593769-liz-green?utm_source=1196&amp;utm_medium=partner" displayName="Liz Green" id="593769" onTourUntil="2012-09-06">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:5d986128-516b-4e55-ba64-ba853319ee34.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:5d986128-516b-4e55-ba64-ba853319ee34/calendar.xml" mbid="5d986128-516b-4e55-ba64-ba853319ee34" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:5d986128-516b-4e55-ba64-ba853319ee34/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-26T16:26:33+0000">
+      <event popularity="0.001004" uri="http://www.songkick.com/concerts/11653623-revere-at-cargo?utm_source=1196&amp;utm_medium=partner" displayName="Revere at Cargo (April 4, 2012)" id="11653623" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.078728" lat="51.526328"/>
+        <start time="20:00:00" date="2012-04-04" datetime="2012-04-04T20:00:00+0000"/>
+        <performance displayName="Revere" billingIndex="1" id="22581223" billing="headline">
+          <artist uri="http://www.songkick.com/artists/221692-revere?utm_source=1196&amp;utm_medium=partner" displayName="Revere" id="221692">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:52147e4d-14a6-4252-97e5-cb49f74a75c0.xml" mbid="52147e4d-14a6-4252-97e5-cb49f74a75c0"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:3a10bcea-4384-4166-a9d8-63ab8b8fd2f4.xml" mbid="3a10bcea-4384-4166-a9d8-63ab8b8fd2f4"/>
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:c30da061-445c-4392-b547-ef2facb266c3.xml" mbid="c30da061-445c-4392-b547-ef2facb266c3"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/3434-cargo?utm_source=1196&amp;utm_medium=partner" displayName="Cargo" id="3434" lng="-0.078728" lat="51.526328">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/221692-revere?utm_source=1196&amp;utm_medium=partner" displayName="Revere" id="221692" onTourUntil="2012-06-02">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:52147e4d-14a6-4252-97e5-cb49f74a75c0.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:52147e4d-14a6-4252-97e5-cb49f74a75c0/calendar.xml" mbid="52147e4d-14a6-4252-97e5-cb49f74a75c0" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:52147e4d-14a6-4252-97e5-cb49f74a75c0/setlists.xml"/>
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:3a10bcea-4384-4166-a9d8-63ab8b8fd2f4.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:3a10bcea-4384-4166-a9d8-63ab8b8fd2f4/calendar.xml" mbid="3a10bcea-4384-4166-a9d8-63ab8b8fd2f4" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:3a10bcea-4384-4166-a9d8-63ab8b8fd2f4/setlists.xml"/>
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:c30da061-445c-4392-b547-ef2facb266c3.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:c30da061-445c-4392-b547-ef2facb266c3/calendar.xml" mbid="c30da061-445c-4392-b547-ef2facb266c3" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:c30da061-445c-4392-b547-ef2facb266c3/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-05T19:29:13+0000">
+      <event popularity="0.004242" uri="http://www.songkick.com/concerts/11428208-drugstore-at-lexington?utm_source=1196&amp;utm_medium=partner" displayName="Drugstore with Vadoinmessico at The Lexington (April 6, 2012)" id="11428208" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1114428" lat="51.5316937"/>
+        <start time="" date="2012-04-06" datetime=""/>
+        <performance displayName="Drugstore" billingIndex="1" id="22145568" billing="headline">
+          <artist uri="http://www.songkick.com/artists/481866-drugstore?utm_source=1196&amp;utm_medium=partner" displayName="Drugstore" id="481866">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:2cc0cb62-4556-4f19-98fc-d54dbca18317.xml" mbid="2cc0cb62-4556-4f19-98fc-d54dbca18317"/>
+          </artist>
+        </performance>
+        <performance displayName="Vadoinmessico" billingIndex="2" id="22360778" billing="support">
+          <artist uri="http://www.songkick.com/artists/2265223-vadoinmessico?utm_source=1196&amp;utm_medium=partner" displayName="Vadoinmessico" id="2265223">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:7f435f9d-bd36-4f86-8d76-f9d87fed6a4b.xml" mbid="7f435f9d-bd36-4f86-8d76-f9d87fed6a4b"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/34372-lexington?utm_source=1196&amp;utm_medium=partner" displayName="The Lexington" id="34372" lng="-0.1114428" lat="51.5316937">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="i_might_go"/>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-09T22:47:36+0000">
+      <event popularity="0.003408" uri="http://www.songkick.com/concerts/11465353-miserable-rich-at-lexington?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich at The Lexington (April 17, 2012)" id="11465353" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.1114428" lat="51.5316937"/>
+        <start time="" date="2012-04-17" datetime=""/>
+        <performance displayName="The Miserable Rich" billingIndex="1" id="22214753" billing="headline">
+          <artist uri="http://www.songkick.com/artists/1096492-miserable-rich?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich" id="1096492">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e.xml" mbid="86704ec2-bf92-4d8d-925f-d55db3653f0e"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/34372-lexington?utm_source=1196&amp;utm_medium=partner" displayName="The Lexington" id="34372" lng="-0.1114428" lat="51.5316937">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/1096492-miserable-rich?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich" id="1096492" onTourUntil="2013-01-23">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e/calendar.xml" mbid="86704ec2-bf92-4d8d-925f-d55db3653f0e" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-09T22:48:54+0000">
+      <event uri="http://www.songkick.com/concerts/11465473-miserable-rich-at-green-door-store?utm_source=1196&amp;utm_medium=partner" popularity="0.0" displayName="The Miserable Rich at The Green Door Store (May 5, 2012)" id="11465473" type="Concert" status="ok">
+        <location city="Brighton, UK" lng="-0.138" lat="50.839"/>
+        <start time="" date="2012-05-05" datetime=""/>
+        <performance displayName="The Miserable Rich" billingIndex="1" id="22214893" billing="headline">
+          <artist uri="http://www.songkick.com/artists/1096492-miserable-rich?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich" id="1096492">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e.xml" mbid="86704ec2-bf92-4d8d-925f-d55db3653f0e"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/1195466-green-door-store?utm_source=1196&amp;utm_medium=partner" displayName="The Green Door Store" id="1195466" lng="" lat="">
+          <metroArea uri="http://www.songkick.com/metro_areas/24554-uk-brighton?utm_source=1196&amp;utm_medium=partner" displayName="Brighton" id="24554">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/1096492-miserable-rich?utm_source=1196&amp;utm_medium=partner" displayName="The Miserable Rich" id="1096492" onTourUntil="2013-01-23">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e/calendar.xml" mbid="86704ec2-bf92-4d8d-925f-d55db3653f0e" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:86704ec2-bf92-4d8d-925f-d55db3653f0e/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+    <calendarEntry createdAt="2012-01-06T14:25:56+0000">
+      <event uri="http://www.songkick.com/concerts/11441018-hilliard-ensemble-at-st-pauls-cathedral?utm_source=1196&amp;utm_medium=partner" popularity="0.0" displayName="The Hilliard Ensemble and Jan Garbarek at St. Paul's Cathedral (July 12, 2012)" id="11441018" type="Concert" status="ok">
+        <location city="London, UK" lng="-0.128" lat="51.5078"/>
+        <start time="" date="2012-07-12" datetime=""/>
+        <performance displayName="The Hilliard Ensemble" billingIndex="1" id="22167608" billing="headline">
+          <artist uri="http://www.songkick.com/artists/281226-hilliard-ensemble?utm_source=1196&amp;utm_medium=partner" displayName="The Hilliard Ensemble" id="281226">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:c8db3d2b-19d8-4dc7-b2cb-deea37aa274a.xml" mbid="c8db3d2b-19d8-4dc7-b2cb-deea37aa274a"/>
+          </artist>
+        </performance>
+        <performance displayName="Jan Garbarek" billingIndex="2" id="22167613" billing="headline">
+          <artist uri="http://www.songkick.com/artists/287597-jan-garbarek?utm_source=1196&amp;utm_medium=partner" displayName="Jan Garbarek" id="287597">
+            <identifier href="http://api.songkick.com/api/3.0/artists/mbid:ea7aba28-8853-4e30-83b7-7deeb3da36cd.xml" mbid="ea7aba28-8853-4e30-83b7-7deeb3da36cd"/>
+          </artist>
+        </performance>
+        <venue uri="http://www.songkick.com/venues/581681-st-pauls-cathedral?utm_source=1196&amp;utm_medium=partner" displayName="St. Paul's Cathedral" id="581681" lng="" lat="">
+          <metroArea uri="http://www.songkick.com/metro_areas/24426-uk-london?utm_source=1196&amp;utm_medium=partner" displayName="London" id="24426">
+            <country displayName="UK"/>
+          </metroArea>
+        </venue>
+      </event>
+      <reason attendance="im_going">
+        <trackedArtist uri="http://www.songkick.com/artists/287597-jan-garbarek?utm_source=1196&amp;utm_medium=partner" displayName="Jan Garbarek" id="287597" onTourUntil="2012-07-12">
+          <identifier href="http://api.songkick.com/api/3.0/artists/mbid:ea7aba28-8853-4e30-83b7-7deeb3da36cd.xml" eventsHref="http://api.songkick.com/api/3.0/artists/mbid:ea7aba28-8853-4e30-83b7-7deeb3da36cd/calendar.xml" mbid="ea7aba28-8853-4e30-83b7-7deeb3da36cd" setlistsHref="http://api.songkick.com/api/3.0/artists/mbid:ea7aba28-8853-4e30-83b7-7deeb3da36cd/setlists.xml"/>
+        </trackedArtist>
+      </reason>
+    </calendarEntry>
+  </results>
+</resultsPage>
