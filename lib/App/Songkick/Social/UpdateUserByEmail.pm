@@ -8,6 +8,7 @@ use aliased 'App::Songkick::User' => 'SKUser';
 use App::Songkick::Types qw/ FollowedUser ArrayRefOfFollowedUsers /;
 
 use Email::Sender::Simple qw(sendmail);
+use Email::Sender::Transport::DevNull;
 use Email::Simple;
 use Email::Simple::Creator;
 use DateTime;
@@ -46,6 +47,16 @@ has cal_agent => (
     required => 1
 );
 
+has mail_transport => (
+    is => 'ro',
+    isa => 'Email::Sender::Transport',
+    lazy_build => 1
+);
+
+sub _build_mail_transport {
+    Email::Sender::Transport::DevNull->new();
+}
+
 sub get_new_events {
     my $self = shift;
 
@@ -69,7 +80,8 @@ sub run {
         body => $self->create_body
     );
 
-    sendmail($email);
+    sendmail($email, { transport => $self->mail_transport } );
+
 }   
 
 1

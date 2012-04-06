@@ -40,7 +40,7 @@ sub get_new_calendar_entries {
 
     my $user_id = $user->id;
 
-    my $url = "$CAL_URL.$api_format?apikey=" . $self->api_key;
+    my $url = "$CAL_URL.$api_format?reason=attendance&apikey=" . $self->api_key;
     $url =~ s/USERNAME/$user_id/;
     my $resp = $self->_request($url);
 
