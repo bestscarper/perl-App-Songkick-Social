@@ -1,6 +1,34 @@
 package App::Songkick::UserDigest;
 use Moose;
 
+=pod
+
+=head1 NAME
+
+sample_user_digest.pl
+
+=head SYNOPSIS
+
+$ perl sample_user_digest.pl --user 'mr.jones' --email 'mr.jones@hotmail.com' --following anna.jones --following james.jones
+
+=head DESCRIPTION
+
+Generate and send a digest of user activity for the Songkick users being 'followed'.
+
+This is a feature which SK used to provide, but for whatever reason was dropped.
+
+This was very nice when you wanted a heads-up when your mates etc were going to gigs.
+
+This example uses a Google (GMail) account to provide mail transport.
+
+You would need to edit this to put your own credentials in, or actually just supply your own mail transport.
+
+=head AUTHOR
+
+Ashley Hindmarsh
+
+=cut
+
 with 'MooseX::Getopt';
 
 use Email::Sender::Transport::SMTP;
