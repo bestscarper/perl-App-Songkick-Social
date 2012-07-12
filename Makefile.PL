@@ -30,6 +30,7 @@ WriteMakefile(
         'MooseX::Types' => 0,
         'MooseX::Types::DateTime' => 0,
         'MooseX::Types::Email' => 0,
+        'MooseX::Getopt' => 0,
         # nice to have if we use Email::Sender::Transport::SMTP
         # (e.g. with Google accounts) rather than sendmail
         'Authen::SASL' => 0,
