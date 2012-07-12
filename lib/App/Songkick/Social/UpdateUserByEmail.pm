@@ -65,7 +65,7 @@ sub get_new_events {
 
 sub create_body {
     my $self = shift;
-    join '\n', @{ $self->get_new_events }
+    join "\n", @{ $self->get_new_events }
 }
 
 sub run {
