@@ -7,11 +7,11 @@ use Moose;
 
 sample_user_digest.pl
 
-=head SYNOPSIS
+=head1 SYNOPSIS
 
 $ perl sample_user_digest.pl --user 'mr.jones' --email 'mr.jones@hotmail.com' --following anna.jones --following james.jones
 
-=head DESCRIPTION
+=head1 DESCRIPTION
 
 Generate and send a digest of user activity for the Songkick users being 'followed'.
 
@@ -23,7 +23,7 @@ This example uses a Google (GMail) account to provide mail transport.
 
 You would need to edit this to put your own credentials in, or actually just supply your own mail transport.
 
-=head AUTHOR
+=head1 AUTHOR
 
 Ashley Hindmarsh
 
@@ -87,8 +87,8 @@ sub _build_mail_transport {
             port => 465,
             ssl => 1,
             timeout => 60,
-            sasl_username => 'billgates@gmail.com',
-            sasl_password => 'rosebud',
+            sasl_username => 'bill@ecxample.com',
+            sasl_password => '42',
         })
 }
 
